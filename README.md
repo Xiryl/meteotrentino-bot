@@ -1,0 +1,1 @@
+# meteotrentino-bot
