@@ -355,3 +355,5 @@ bld/
 ^X Exit         ^J Justify      ^W Where Is     ^V Next Page    ^U UnCut Text   ^T To Spell
 
 lib/config/config\.json
+
+session_db\.json

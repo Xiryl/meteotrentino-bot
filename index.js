@@ -1,8 +1,10 @@
 const Telegraf = require('telegraf')
-const config = require('./lib/config/config.json.js');
+const config = require('./lib/config/config.json');
 const Markup = require('telegraf/markup');
 const LocalSession = require('telegraf-session-local');
+const helpera = require('./lib/helper');
 
+//https://azureforeducation.microsoft.com/devtools
 // init bot
 const bot = new Telegraf(config["TOKEN"]);
 
@@ -41,7 +43,10 @@ bot.hears('☀️ Previsioni', (ctx) => {
   ctx.session.counter = ctx.session.counter || 0;
   ctx.session.counter++;
 
-  ctx.reply('Previsioni:');
+  helpera.BuildWeatherMessage('arco').then( (msg) => {
+    ctx.reply('Previsioni:' + msg);
+  });
+   
 });
 
 bot.command('☀️ Previsioni Meteo', (ctx) => {
