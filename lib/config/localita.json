@@ -1,0 +1,3777 @@
+{
+    "localita": [
+        {
+            "localita": "ALA",
+            "comune": "ALA",
+            "quota": 177,
+            "latitudine": "45.757142",
+            "longitudine": "11.004772"
+        },
+        {
+            "localita": "CIMA CAREGA",
+            "comune": "ALA",
+            "quota": 2258,
+            "latitudine": "45.724004",
+            "longitudine": "11.130075"
+        },
+        {
+            "localita": "MAIERE",
+            "comune": "ALA",
+            "quota": 424,
+            "latitudine": "45.804568",
+            "longitudine": "11.032465"
+        },
+        {
+            "localita": "RIFUGIO FRACCAROLI",
+            "comune": "ALA",
+            "quota": 2225,
+            "latitudine": "45.723682",
+            "longitudine": "11.129215"
+        },
+        {
+            "localita": "RIFUGIO PASSO PERTICA",
+            "comune": "ALA",
+            "quota": 1523,
+            "latitudine": "45.703452",
+            "longitudine": "11.116024"
+        },
+        {
+            "localita": "RIFUGIO SCALORBI",
+            "comune": "ALA",
+            "quota": 1769,
+            "latitudine": "45.711109",
+            "longitudine": "11.140158"
+        },
+        {
+            "localita": "ALBIANO",
+            "comune": "ALBIANO",
+            "quota": 644,
+            "latitudine": "46.14342",
+            "longitudine": "11.195171"
+        },
+        {
+            "localita": "ALDENO",
+            "comune": "ALDENO",
+            "quota": 207,
+            "latitudine": "45.977951",
+            "longitudine": "11.092142"
+        },
+        {
+            "localita": "ANDALO",
+            "comune": "ANDALO",
+            "quota": 1039,
+            "latitudine": "46.165956",
+            "longitudine": "11.005633"
+        },
+        {
+            "localita": "ARCO",
+            "comune": "ARCO",
+            "quota": 90,
+            "latitudine": "45.918657",
+            "longitudine": "10.885328"
+        },
+        {
+            "localita": "BOLOGNANO",
+            "comune": "ARCO",
+            "quota": 148,
+            "latitudine": "45.913934",
+            "longitudine": "10.905759"
+        },
+        {
+            "localita": "MONTE STIVO",
+            "comune": "ARCO",
+            "quota": 2058,
+            "latitudine": "45.920281",
+            "longitudine": "10.963911"
+        },
+        {
+            "localita": "RIFUGIO MARCHETTI ALLO STIVO",
+            "comune": "ARCO",
+            "quota": 2014,
+            "latitudine": "45.92113",
+            "longitudine": "10.96195"
+        },
+        {
+            "localita": "ROMARZOLLO",
+            "comune": "ARCO",
+            "quota": 120,
+            "latitudine": "45.923825",
+            "longitudine": "10.900687"
+        },
+        {
+            "localita": "Alto Garda e Ledro",
+            "comune": "ARCO",
+            "quota": 115,
+            "latitudine": "45.918657",
+            "longitudine": "10.885328"
+        },
+        {
+            "localita": "RIFUGIO MONTE BALDO",
+            "comune": "AVIO",
+            "quota": 1113,
+            "latitudine": "45.735631",
+            "longitudine": "10.881786"
+        },
+        {
+            "localita": "SABBIONARA",
+            "comune": "AVIO",
+            "quota": 161,
+            "latitudine": "45.741225",
+            "longitudine": "10.954895"
+        },
+        {
+            "localita": "PRA' ALPESINA",
+            "comune": "AVIO",
+            "quota": 1447,
+            "latitudine": "45.75914",
+            "longitudine": "10.877965"
+        },
+        {
+            "localita": "AVIO",
+            "comune": "AVIO",
+            "quota": 147,
+            "latitudine": "45.734239",
+            "longitudine": "10.935787"
+        },
+        {
+            "localita": "BASELGA DI PINE'",
+            "comune": "BASELGA DI PINE'",
+            "quota": 967,
+            "latitudine": "46.132749",
+            "longitudine": "11.242478"
+        },
+        {
+            "localita": "ALTOPIANO DI PINE'",
+            "comune": "BASELGA DI PINE'",
+            "quota": 972,
+            "latitudine": "46.131612",
+            "longitudine": "11.246996"
+        },
+        {
+            "localita": "RIFUGIO TONINI",
+            "comune": "BASELGA DI PINE'",
+            "quota": 1915,
+            "latitudine": "46.166102",
+            "longitudine": "11.354048"
+        },
+        {
+            "localita": "BEDOLLO",
+            "comune": "BEDOLLO",
+            "quota": 1150,
+            "latitudine": "46.165646",
+            "longitudine": "11.301567"
+        },
+        {
+            "localita": "BESENELLO",
+            "comune": "BESENELLO",
+            "quota": 209,
+            "latitudine": "45.94014",
+            "longitudine": "11.111668"
+        },
+        {
+            "localita": "BIENO",
+            "comune": "BIENO",
+            "quota": 822,
+            "latitudine": "46.0811",
+            "longitudine": "11.555535"
+        },
+        {
+            "localita": "CIMON RAVA",
+            "comune": "BIENO",
+            "quota": 2436,
+            "latitudine": "46.123388",
+            "longitudine": "11.569115"
+        },
+        {
+            "localita": "BLEGGIO SUPERIORE",
+            "comune": "BLEGGIO SUPERIORE",
+            "quota": 788,
+            "latitudine": "46.022213",
+            "longitudine": "10.814559"
+        },
+        {
+            "localita": "BOCENAGO",
+            "comune": "BOCENAGO",
+            "quota": 739,
+            "latitudine": "46.11634",
+            "longitudine": "10.757337"
+        },
+        {
+            "localita": "BONDONE",
+            "comune": "BONDONE",
+            "quota": 721,
+            "latitudine": "45.806725",
+            "longitudine": "10.549567"
+        },
+        {
+            "localita": "BORGO VALSUGANA",
+            "comune": "BORGO VALSUGANA",
+            "quota": 382,
+            "latitudine": "46.053403",
+            "longitudine": "11.457768"
+        },
+        {
+            "localita": "CIMA DODICI",
+            "comune": "BORGO VALSUGANA",
+            "quota": 2337,
+            "latitudine": "45.997564",
+            "longitudine": "11.468051"
+        },
+        {
+            "localita": "CIMA UNDICI",
+            "comune": "BORGO VALSUGANA",
+            "quota": 2221,
+            "latitudine": "46.003841",
+            "longitudine": "11.485705"
+        },
+        {
+            "localita": "Bassa Valsugana e Tesino",
+            "comune": "BORGO VALSUGANA",
+            "quota": 410,
+            "latitudine": "46.053403",
+            "longitudine": "11.457768"
+        },
+        {
+            "localita": "VAL DI SELLA",
+            "comune": "BORGO VALSUGANA",
+            "quota": 962,
+            "latitudine": "46.008406",
+            "longitudine": "11.404124"
+        },
+        {
+            "localita": "BRENTONICO",
+            "comune": "BRENTONICO",
+            "quota": 701,
+            "latitudine": "45.820504",
+            "longitudine": "10.958179"
+        },
+        {
+            "localita": "RIFUGIO CAMPEI",
+            "comune": "BRENTONICO",
+            "quota": 1467,
+            "latitudine": "45.829248",
+            "longitudine": "10.917706"
+        },
+        {
+            "localita": "RIFUGIO DAMIANO CHIESA",
+            "comune": "BRENTONICO",
+            "quota": 2059,
+            "latitudine": "45.810389",
+            "longitudine": "10.890404"
+        },
+        {
+            "localita": "BRESIMO",
+            "comune": "BRESIMO",
+            "quota": 1175,
+            "latitudine": "46.413357",
+            "longitudine": "10.9646"
+        },
+        {
+            "localita": "MALGA BORDOLONA",
+            "comune": "BRESIMO",
+            "quota": 1805,
+            "latitudine": "46.432292",
+            "longitudine": "10.889174"
+        },
+        {
+            "localita": "VAL DI BRESIMO",
+            "comune": "BRESIMO",
+            "quota": 1368,
+            "latitudine": "46.425731",
+            "longitudine": "10.939555"
+        },
+        {
+            "localita": "BREZ",
+            "comune": "BREZ",
+            "quota": 792,
+            "latitudine": "46.431016",
+            "longitudine": "11.107386"
+        },
+        {
+            "localita": "ARSIO",
+            "comune": "BREZ",
+            "quota": 805,
+            "latitudine": "46.426898",
+            "longitudine": "11.096463"
+        },
+        {
+            "localita": "CADERZONE",
+            "comune": "CADERZONE",
+            "quota": 718,
+            "latitudine": "46.129577",
+            "longitudine": "10.75703"
+        },
+        {
+            "localita": "RIFUGIO SAN GIULIANO",
+            "comune": "CADERZONE",
+            "quota": 1958,
+            "latitudine": "46.144864",
+            "longitudine": "10.70468"
+        },
+        {
+            "localita": "CAGNO",
+            "comune": "CAGNO'",
+            "quota": 675,
+            "latitudine": "46.394775",
+            "longitudine": "11.040308"
+        },
+        {
+            "localita": "CALCERANICA AL LAGO",
+            "comune": "CALCERANICA AL LAGO",
+            "quota": 457,
+            "latitudine": "46.003439",
+            "longitudine": "11.243691"
+        },
+        {
+            "localita": "CALDES",
+            "comune": "CALDES",
+            "quota": 675,
+            "latitudine": "46.365291",
+            "longitudine": "10.943121"
+        },
+        {
+            "localita": "CALDONAZZO",
+            "comune": "CALDONAZZO",
+            "quota": 472,
+            "latitudine": "45.994305",
+            "longitudine": "11.263311"
+        },
+        {
+            "localita": "CALLIANO",
+            "comune": "CALLIANO",
+            "quota": 186,
+            "latitudine": "45.934223",
+            "longitudine": "11.094362"
+        },
+        {
+            "localita": "CAMPITELLO DI FASSA",
+            "comune": "CAMPITELLO DI FASSA",
+            "quota": 1430,
+            "latitudine": "46.477022",
+            "longitudine": "11.740526"
+        },
+        {
+            "localita": "COL RODELLA",
+            "comune": "CAMPITELLO DI FASSA",
+            "quota": 2485,
+            "latitudine": "46.495349",
+            "longitudine": "11.747925"
+        },
+        {
+            "localita": "RIFUGIO SANDRO PERTINI",
+            "comune": "CAMPITELLO DI FASSA",
+            "quota": 2279,
+            "latitudine": "46.502052",
+            "longitudine": "11.724622"
+        },
+        {
+            "localita": "RIFUGIO SASSO PIATTO",
+            "comune": "CAMPITELLO DI FASSA",
+            "quota": 2306,
+            "latitudine": "46.504455",
+            "longitudine": "11.700761"
+        },
+        {
+            "localita": "SASSO PIATTO",
+            "comune": "CAMPITELLO DI FASSA",
+            "quota": 2960,
+            "latitudine": "46.513633",
+            "longitudine": "11.715806"
+        },
+        {
+            "localita": "VAL DURON",
+            "comune": "CAMPITELLO DI FASSA",
+            "quota": 1877,
+            "latitudine": "46.490812",
+            "longitudine": "11.696395"
+        },
+        {
+            "localita": "CAMPODENNO",
+            "comune": "CAMPODENNO",
+            "quota": 545,
+            "latitudine": "46.25834",
+            "longitudine": "11.032973"
+        },
+        {
+            "localita": "CANAL SAN BOVO",
+            "comune": "CANAL SAN BOVO",
+            "quota": 744,
+            "latitudine": "46.154974",
+            "longitudine": "11.732546"
+        },
+        {
+            "localita": "PASSO GOBBERA",
+            "comune": "CANAL SAN BOVO",
+            "quota": 996,
+            "latitudine": "46.147503",
+            "longitudine": "11.757792"
+        },
+        {
+            "localita": "VALLE DEL VANOI",
+            "comune": "CANAL SAN BOVO",
+            "quota": 638,
+            "latitudine": "46.152605",
+            "longitudine": "11.726789"
+        },
+        {
+            "localita": "CIMA CECE - LAGORAI",
+            "comune": "CANAL SAN BOVO",
+            "quota": 2754,
+            "latitudine": "46.260798",
+            "longitudine": "11.68401"
+        },
+        {
+            "localita": "GRUPPO DEL SELLA",
+            "comune": "CANAZEI",
+            "quota": 2851,
+            "latitudine": "46.513095",
+            "longitudine": "11.791945"
+        },
+        {
+            "localita": "MARMOLADA",
+            "comune": "CANAZEI",
+            "quota": 3232,
+            "latitudine": "46.435269",
+            "longitudine": "11.855586"
+        },
+        {
+            "localita": "PUNTA PENIA",
+            "comune": "CANAZEI",
+            "quota": 3343,
+            "latitudine": "46.43455",
+            "longitudine": "11.851311"
+        },
+        {
+            "localita": "VAL LASTIES",
+            "comune": "CANAZEI",
+            "quota": 2353,
+            "latitudine": "46.509201",
+            "longitudine": "11.808061"
+        },
+        {
+            "localita": "RIFUGIO PIAN DEI FIACCONI",
+            "comune": "CANAZEI",
+            "quota": 2620,
+            "latitudine": "46.446195",
+            "longitudine": "11.860423"
+        },
+        {
+            "localita": "PASSO DI FEDAIA",
+            "comune": "CANAZEI",
+            "quota": 2055,
+            "latitudine": "46.454837",
+            "longitudine": "11.886075"
+        },
+        {
+            "localita": "PASSO PORDOI",
+            "comune": "CANAZEI",
+            "quota": 2237,
+            "latitudine": "46.487618",
+            "longitudine": "11.81125"
+        },
+        {
+            "localita": "RIFUGIO BOE'",
+            "comune": "CANAZEI",
+            "quota": 2871,
+            "latitudine": "46.514653",
+            "longitudine": "11.823467"
+        },
+        {
+            "localita": "CANAZEI",
+            "comune": "CANAZEI",
+            "quota": 1465,
+            "latitudine": "46.476874",
+            "longitudine": "11.773886"
+        },
+        {
+            "localita": "CAPANNA PIZ DI FASSA",
+            "comune": "CANAZEI",
+            "quota": 3086,
+            "latitudine": "46.509063",
+            "longitudine": "11.826954"
+        },
+        {
+            "localita": "CIAMPAC",
+            "comune": "CANAZEI",
+            "quota": 2150,
+            "latitudine": "46.445531",
+            "longitudine": "11.770756"
+        },
+        {
+            "localita": "CAPRIANA",
+            "comune": "CAPRIANA",
+            "quota": 1015,
+            "latitudine": "46.263117",
+            "longitudine": "11.338022"
+        },
+        {
+            "localita": "MALGA CORNO",
+            "comune": "CAPRIANA",
+            "quota": 1707,
+            "latitudine": "46.287781",
+            "longitudine": "11.327419"
+        },
+        {
+            "localita": "CARANO",
+            "comune": "CARANO",
+            "quota": 1078,
+            "latitudine": "46.292225",
+            "longitudine": "11.440548"
+        },
+        {
+            "localita": "CARISOLO",
+            "comune": "CARISOLO",
+            "quota": 797,
+            "latitudine": "46.167829",
+            "longitudine": "10.760127"
+        },
+        {
+            "localita": "RIFUGIO CORNISELLO",
+            "comune": "CARISOLO",
+            "quota": 2122,
+            "latitudine": "46.219893",
+            "longitudine": "10.738224"
+        },
+        {
+            "localita": "CARZANO",
+            "comune": "CARZANO",
+            "quota": 432,
+            "latitudine": "46.070354",
+            "longitudine": "11.494048"
+        },
+        {
+            "localita": "CASTEL CONDINO",
+            "comune": "CASTEL CONDINO",
+            "quota": 849,
+            "latitudine": "45.914441",
+            "longitudine": "10.602459"
+        },
+        {
+            "localita": "CASTELFONDO",
+            "comune": "CASTELFONDO",
+            "quota": 939,
+            "latitudine": "46.455816",
+            "longitudine": "11.116308"
+        },
+        {
+            "localita": "MALGA CASTRIN",
+            "comune": "CASTELFONDO",
+            "quota": 1813,
+            "latitudine": "46.515688",
+            "longitudine": "11.054138"
+        },
+        {
+            "localita": "VAL DI FIEMME",
+            "comune": "CASTELLO-MOLINA DI FIEMME",
+            "quota": 882,
+            "latitudine": "46.274973",
+            "longitudine": "11.443328"
+        },
+        {
+            "localita": "CASTELLO DI FIEMME",
+            "comune": "CASTELLO-MOLINA DI FIEMME",
+            "quota": 941,
+            "latitudine": "46.279777",
+            "longitudine": "11.434301"
+        },
+        {
+            "localita": "CASTELLO TESINO",
+            "comune": "CASTELLO TESINO",
+            "quota": 860,
+            "latitudine": "46.064833",
+            "longitudine": "11.633262"
+        },
+        {
+            "localita": "CIMA D'ASTA",
+            "comune": "CASTELLO TESINO",
+            "quota": 2847,
+            "latitudine": "46.176615",
+            "longitudine": "11.605288"
+        },
+        {
+            "localita": "PASSO DEL BROCON",
+            "comune": "CASTELLO TESINO",
+            "quota": 1618,
+            "latitudine": "46.11867",
+            "longitudine": "11.688425"
+        },
+        {
+            "localita": "PASSO CINQUE CROCI",
+            "comune": "CASTELLO TESINO",
+            "quota": 2018,
+            "latitudine": "46.175036",
+            "longitudine": "11.550461"
+        },
+        {
+            "localita": "CASTELNUOVO",
+            "comune": "CASTELNUOVO",
+            "quota": 354,
+            "latitudine": "46.052219",
+            "longitudine": "11.494223"
+        },
+        {
+            "localita": "VALSUGANA",
+            "comune": "CASTELNUOVO",
+            "quota": 368,
+            "latitudine": "46.052387",
+            "longitudine": "11.482132"
+        },
+        {
+            "localita": "CAVALESE",
+            "comune": "CAVALESE",
+            "quota": 996,
+            "latitudine": "46.291585",
+            "longitudine": "11.459648"
+        },
+        {
+            "localita": "CERMIS",
+            "comune": "CAVALESE",
+            "quota": 2013,
+            "latitudine": "46.250683",
+            "longitudine": "11.503415"
+        },
+        {
+            "localita": "CAVARENO",
+            "comune": "CAVARENO",
+            "quota": 973,
+            "latitudine": "46.4085",
+            "longitudine": "11.138267"
+        },
+        {
+            "localita": "PASSO DELLA MENDOLA",
+            "comune": "CAVARENO",
+            "quota": 1361,
+            "latitudine": "46.415118",
+            "longitudine": "11.205013"
+        },
+        {
+            "localita": "CAVEDAGO",
+            "comune": "CAVEDAGO",
+            "quota": 862,
+            "latitudine": "46.18439",
+            "longitudine": "11.029374"
+        },
+        {
+            "localita": "CAVEDINE",
+            "comune": "CAVEDINE",
+            "quota": 502,
+            "latitudine": "45.993975",
+            "longitudine": "10.973661"
+        },
+        {
+            "localita": "MONTE BONDONE",
+            "comune": "CAVEDINE",
+            "quota": 2144,
+            "latitudine": "45.987987",
+            "longitudine": "11.030896"
+        },
+        {
+            "localita": "CAVIZZANA",
+            "comune": "CAVIZZANA",
+            "quota": 705,
+            "latitudine": "46.36756",
+            "longitudine": "10.957974"
+        },
+        {
+            "localita": "CIMONE",
+            "comune": "CIMONE",
+            "quota": 545,
+            "latitudine": "45.978329",
+            "longitudine": "11.068497"
+        },
+        {
+            "localita": "CINTE TESINO",
+            "comune": "CINTE TESINO",
+            "quota": 839,
+            "latitudine": "46.056152",
+            "longitudine": "11.615439"
+        },
+        {
+            "localita": "CIS",
+            "comune": "CIS",
+            "quota": 721,
+            "latitudine": "46.3991",
+            "longitudine": "11.003753"
+        },
+        {
+            "localita": "CIVEZZANO",
+            "comune": "CIVEZZANO",
+            "quota": 454,
+            "latitudine": "46.088333",
+            "longitudine": "11.180188"
+        },
+        {
+            "localita": "CLES",
+            "comune": "CLES",
+            "quota": 655,
+            "latitudine": "46.364587",
+            "longitudine": "11.035154"
+        },
+        {
+            "localita": "RIFUGIO PELLER",
+            "comune": "CLES",
+            "quota": 1986,
+            "latitudine": "46.322186",
+            "longitudine": "10.952693"
+        },
+        {
+            "localita": "CLOZ (LOC S. MARIA)",
+            "comune": "CLOZ",
+            "quota": 778,
+            "latitudine": "46.416552",
+            "longitudine": "11.084684"
+        },
+        {
+            "localita": "CLOZ (LOC S. STEFANO)",
+            "comune": "CLOZ",
+            "quota": 789,
+            "latitudine": "46.420968",
+            "longitudine": "11.088893"
+        },
+        {
+            "localita": "COMMEZZADURA",
+            "comune": "COMMEZZADURA",
+            "quota": 801,
+            "latitudine": "46.320926",
+            "longitudine": "10.843533"
+        },
+        {
+            "localita": "CROVIANA",
+            "comune": "CROVIANA",
+            "quota": 720,
+            "latitudine": "46.345033",
+            "longitudine": "10.903697"
+        },
+        {
+            "localita": "DAIANO",
+            "comune": "DAIANO",
+            "quota": 1186,
+            "latitudine": "46.300864",
+            "longitudine": "11.447845"
+        },
+        {
+            "localita": "DAMBEL",
+            "comune": "DAMBEL",
+            "quota": 734,
+            "latitudine": "46.405542",
+            "longitudine": "11.092699"
+        },
+        {
+            "localita": "DENNO",
+            "comune": "DENNO",
+            "quota": 431,
+            "latitudine": "46.274698",
+            "longitudine": "11.04958"
+        },
+        {
+            "localita": "DRENA",
+            "comune": "DRENA",
+            "quota": 392,
+            "latitudine": "45.969687",
+            "longitudine": "10.945326"
+        },
+        {
+            "localita": "DRO",
+            "comune": "DRO",
+            "quota": 122,
+            "latitudine": "45.961826",
+            "longitudine": "10.911332"
+        },
+        {
+            "localita": "MAROCCHE",
+            "comune": "DRO",
+            "quota": 276,
+            "latitudine": "45.985093",
+            "longitudine": "10.934828"
+        },
+        {
+            "localita": "FAEDO",
+            "comune": "FAEDO",
+            "quota": 597,
+            "latitudine": "46.192591",
+            "longitudine": "11.161751"
+        },
+        {
+            "localita": "FAI DELLA PAGANELLA",
+            "comune": "FAI DELLA PAGANELLA",
+            "quota": 957,
+            "latitudine": "46.179458",
+            "longitudine": "11.071044"
+        },
+        {
+            "localita": "ALTOPIANO DELLA PAGANELLA",
+            "comune": "FAI DELLA PAGANELLA",
+            "quota": 959,
+            "latitudine": "46.179355",
+            "longitudine": "11.070614"
+        },
+        {
+            "localita": "FIAVE'",
+            "comune": "FIAVE'",
+            "quota": 666,
+            "latitudine": "46.004774",
+            "longitudine": "10.842255"
+        },
+        {
+            "localita": "FIEROZZO",
+            "comune": "FIEROZZO",
+            "quota": 1011,
+            "latitudine": "46.107071",
+            "longitudine": "11.314229"
+        },
+        {
+            "localita": "FOLGARIA",
+            "comune": "FOLGARIA",
+            "quota": 1164,
+            "latitudine": "45.91556",
+            "longitudine": "11.172458"
+        },
+        {
+            "localita": "LASTEBASSE",
+            "comune": "FOLGARIA",
+            "quota": 1475,
+            "latitudine": "45.904209",
+            "longitudine": "11.235578"
+        },
+        {
+            "localita": "PASSO COE",
+            "comune": "FOLGARIA",
+            "quota": 1611,
+            "latitudine": "45.876628",
+            "longitudine": "11.214937"
+        },
+        {
+            "localita": "RIFUGIO STELLA D'ITALIA",
+            "comune": "FOLGARIA",
+            "quota": 1536,
+            "latitudine": "45.896377",
+            "longitudine": "11.19509"
+        },
+        {
+            "localita": "VAL D' ASTICO",
+            "comune": "FOLGARIA",
+            "quota": 778,
+            "latitudine": "45.926756",
+            "longitudine": "11.24007"
+        },
+        {
+            "localita": "MONTE MACAION",
+            "comune": "FONDO",
+            "quota": 1865,
+            "latitudine": "46.494083",
+            "longitudine": "11.208989"
+        },
+        {
+            "localita": "FONDO",
+            "comune": "FONDO",
+            "quota": 982,
+            "latitudine": "46.44004",
+            "longitudine": "11.1377"
+        },
+        {
+            "localita": "FORNACE",
+            "comune": "FORNACE",
+            "quota": 746,
+            "latitudine": "46.117161",
+            "longitudine": "11.205642"
+        },
+        {
+            "localita": "FRASSILONGO",
+            "comune": "FRASSILONGO",
+            "quota": 848,
+            "latitudine": "46.089358",
+            "longitudine": "11.296764"
+        },
+        {
+            "localita": "GARNIGA TERME",
+            "comune": "GARNIGA TERME",
+            "quota": 810,
+            "latitudine": "46.004375",
+            "longitudine": "11.088276"
+        },
+        {
+            "localita": "VERLA",
+            "comune": "GIOVO",
+            "quota": 498,
+            "latitudine": "46.156742",
+            "longitudine": "11.152575"
+        },
+        {
+            "localita": "VILLE DI GIOVO",
+            "comune": "GIOVO",
+            "quota": 700,
+            "latitudine": "46.168148",
+            "longitudine": "11.157026"
+        },
+        {
+            "localita": "RIFUGIO SAUCH",
+            "comune": "GIOVO",
+            "quota": 911,
+            "latitudine": "46.215884",
+            "longitudine": "11.194382"
+        },
+        {
+            "localita": "RIFUGIO SEGANTINI",
+            "comune": "GIUSTINO",
+            "quota": 2371,
+            "latitudine": "46.209203",
+            "longitudine": "10.710897"
+        },
+        {
+            "localita": "GIUSTINO",
+            "comune": "GIUSTINO",
+            "quota": 772,
+            "latitudine": "46.146428",
+            "longitudine": "10.769085"
+        },
+        {
+            "localita": "CIMA PRESANELLA",
+            "comune": "GIUSTINO",
+            "quota": 3557,
+            "latitudine": "46.21992",
+            "longitudine": "10.663852"
+        },
+        {
+            "localita": "RIFUGIO CASCATE DEL NARDIS",
+            "comune": "GIUSTINO",
+            "quota": 926,
+            "latitudine": "46.169013",
+            "longitudine": "10.714545"
+        },
+        {
+            "localita": "RIFUGIO BARRICATA",
+            "comune": "GRIGNO",
+            "quota": 1339,
+            "latitudine": "45.980037",
+            "longitudine": "11.591615"
+        },
+        {
+            "localita": "GRIGNO",
+            "comune": "GRIGNO",
+            "quota": 262,
+            "latitudine": "46.016371",
+            "longitudine": "11.633807"
+        },
+        {
+            "localita": "IMER",
+            "comune": "IMER",
+            "quota": 637,
+            "latitudine": "46.150788",
+            "longitudine": "11.798407"
+        },
+        {
+            "localita": "ISERA",
+            "comune": "ISERA",
+            "quota": 238,
+            "latitudine": "45.887296",
+            "longitudine": "11.008868"
+        },
+        {
+            "localita": "SPUGHE",
+            "comune": "ISERA",
+            "quota": 651,
+            "latitudine": "45.890785",
+            "longitudine": "10.99479"
+        },
+        {
+            "localita": "RIFUGIO MONTE LEFRE",
+            "comune": "IVANO-FRACENA",
+            "quota": 1284,
+            "latitudine": "46.060455",
+            "longitudine": "11.552145"
+        },
+        {
+            "localita": "Altipiani di Folgaria, Lavarone e Luserna",
+            "comune": "LAVARONE",
+            "quota": 1168,
+            "latitudine": "45.946843",
+            "longitudine": "11.265895"
+        },
+        {
+            "localita": "ALTOPIANO DI LAVARONE - FOLGARIA - LUSERNA",
+            "comune": "LAVARONE",
+            "quota": 1315,
+            "latitudine": "45.95733",
+            "longitudine": "11.271685"
+        },
+        {
+            "localita": "LAVARONE",
+            "comune": "LAVARONE",
+            "quota": 1215,
+            "latitudine": "45.946843",
+            "longitudine": "11.265895"
+        },
+        {
+            "localita": "LAVIS",
+            "comune": "LAVIS",
+            "quota": 231,
+            "latitudine": "46.139751",
+            "longitudine": "11.111569"
+        },
+        {
+            "localita": "LEVICO",
+            "comune": "LEVICO",
+            "quota": 502,
+            "latitudine": "46.011634",
+            "longitudine": "11.300855"
+        },
+        {
+            "localita": "PASSO DI VEZZENA",
+            "comune": "LEVICO",
+            "quota": 1414,
+            "latitudine": "45.956499",
+            "longitudine": "11.329133"
+        },
+        {
+            "localita": "BARCO",
+            "comune": "LEVICO",
+            "quota": 480,
+            "latitudine": "46.00408",
+            "longitudine": "11.33772"
+        },
+        {
+            "localita": "LIVO",
+            "comune": "LIVO",
+            "quota": 735,
+            "latitudine": "46.404963",
+            "longitudine": "11.018735"
+        },
+        {
+            "localita": "LONA-LASES",
+            "comune": "LONA-LASES",
+            "quota": 639,
+            "latitudine": "46.145128",
+            "longitudine": "11.220833"
+        },
+        {
+            "localita": "LUSERNA",
+            "comune": "LUSERNA",
+            "quota": 1325,
+            "latitudine": "45.921673",
+            "longitudine": "11.324404"
+        },
+        {
+            "localita": "RIFUGIO MALGA CAMPO",
+            "comune": "LUSERNA",
+            "quota": 1452,
+            "latitudine": "45.920518",
+            "longitudine": "11.338041"
+        },
+        {
+            "localita": "Valli di Sole, Peio e Rabbi",
+            "comune": "MALE'",
+            "quota": 737,
+            "latitudine": "46.352664",
+            "longitudine": "10.912643"
+        },
+        {
+            "localita": "MALE'",
+            "comune": "MALE'",
+            "quota": 737,
+            "latitudine": "46.352664",
+            "longitudine": "10.912643"
+        },
+        {
+            "localita": "MALOSCO",
+            "comune": "MALOSCO",
+            "quota": 1045,
+            "latitudine": "46.435998",
+            "longitudine": "11.14412"
+        },
+        {
+            "localita": "MASSIMENO",
+            "comune": "MASSIMENO",
+            "quota": 873,
+            "latitudine": "46.14259",
+            "longitudine": "10.773752"
+        },
+        {
+            "localita": "MAZZIN MAZIN",
+            "comune": "MAZZIN",
+            "quota": 1372,
+            "latitudine": "46.457175",
+            "longitudine": "11.700143"
+        },
+        {
+            "localita": "RIFUGIO ANTERMOIA",
+            "comune": "MAZZIN",
+            "quota": 2493,
+            "latitudine": "46.477011",
+            "longitudine": "11.663913"
+        },
+        {
+            "localita": "MARILLEVA",
+            "comune": "MEZZANA",
+            "quota": 1439,
+            "latitudine": "46.301881",
+            "longitudine": "10.810204"
+        },
+        {
+            "localita": "MEZZANA",
+            "comune": "MEZZANA",
+            "quota": 937,
+            "latitudine": "46.317063",
+            "longitudine": "10.801066"
+        },
+        {
+            "localita": "MEZZANO",
+            "comune": "MEZZANO",
+            "quota": 637,
+            "latitudine": "46.154515",
+            "longitudine": "11.805874"
+        },
+        {
+            "localita": "VAL NOANA",
+            "comune": "MEZZANO",
+            "quota": 1044,
+            "latitudine": "46.139289",
+            "longitudine": "11.839693"
+        },
+        {
+            "localita": "RIFUGIO MALGA KRAUN",
+            "comune": "MEZZOCORONA",
+            "quota": 1222,
+            "latitudine": "46.251241",
+            "longitudine": "11.141184"
+        },
+        {
+            "localita": "MEZZOCORONA",
+            "comune": "MEZZOCORONA",
+            "quota": 219,
+            "latitudine": "46.216903",
+            "longitudine": "11.119425"
+        },
+        {
+            "localita": "MONTE DI MEZZOCORONA",
+            "comune": "MEZZOCORONA",
+            "quota": 884,
+            "latitudine": "46.225164",
+            "longitudine": "11.120553"
+        },
+        {
+            "localita": "MEZZOLOMBARDO",
+            "comune": "MEZZOLOMBARDO",
+            "quota": 226,
+            "latitudine": "46.213474",
+            "longitudine": "11.090578"
+        },
+        {
+            "localita": "Rotaliana",
+            "comune": "MEZZOLOMBARDO",
+            "quota": 226,
+            "latitudine": "46.213474",
+            "longitudine": "11.090578"
+        },
+        {
+            "localita": "VALLE DI SAN PELLEGRINO",
+            "comune": "MOENA",
+            "quota": 1695,
+            "latitudine": "46.361911",
+            "longitudine": "11.709034"
+        },
+        {
+            "localita": "MOENA",
+            "comune": "MOENA",
+            "quota": 1166,
+            "latitudine": "46.37586",
+            "longitudine": "11.658595"
+        },
+        {
+            "localita": "PASSO DI SAN PELLEGRINO",
+            "comune": "MOENA",
+            "quota": 1940,
+            "latitudine": "46.380176",
+            "longitudine": "11.789949"
+        },
+        {
+            "localita": "PASSO LUSIA",
+            "comune": "MOENA",
+            "quota": 2051,
+            "latitudine": "46.343632",
+            "longitudine": "11.700504"
+        },
+        {
+            "localita": "RIFUGIO ALTISSIMO",
+            "comune": "MOLVENO",
+            "quota": 1447,
+            "latitudine": "46.170622",
+            "longitudine": "10.931708"
+        },
+        {
+            "localita": "MOLVENO",
+            "comune": "MOLVENO",
+            "quota": 864,
+            "latitudine": "46.142673",
+            "longitudine": "10.966408"
+        },
+        {
+            "localita": "CIMA BRENTA",
+            "comune": "MOLVENO",
+            "quota": 3151,
+            "latitudine": "46.17945",
+            "longitudine": "10.899932"
+        },
+        {
+            "localita": "VALLE DELLE SEGHE - MOLVENO",
+            "comune": "MOLVENO",
+            "quota": 908,
+            "latitudine": "46.144568",
+            "longitudine": "10.952525"
+        },
+        {
+            "localita": "RIFUGIO MALGA DI ANDALO",
+            "comune": "MOLVENO",
+            "quota": 1363,
+            "latitudine": "46.145195",
+            "longitudine": "10.943788"
+        },
+        {
+            "localita": "RIFUGIO LA MONTANARA",
+            "comune": "MOLVENO",
+            "quota": 1509,
+            "latitudine": "46.157376",
+            "longitudine": "10.954582"
+        },
+        {
+            "localita": "RIFUGIO SELVATA",
+            "comune": "MOLVENO",
+            "quota": 1654,
+            "latitudine": "46.161288",
+            "longitudine": "10.926362"
+        },
+        {
+            "localita": "BESAGNO",
+            "comune": "MORI",
+            "quota": 390,
+            "latitudine": "45.836347",
+            "longitudine": "10.969974"
+        },
+        {
+            "localita": "MORI",
+            "comune": "MORI",
+            "quota": 195,
+            "latitudine": "45.851912",
+            "longitudine": "10.977647"
+        },
+        {
+            "localita": "NAGO - TORBOLE",
+            "comune": "NAGO - TORBOLE",
+            "quota": 217,
+            "latitudine": "45.877388",
+            "longitudine": "10.890423"
+        },
+        {
+            "localita": "MONTE VARAGNA",
+            "comune": "NAGO - TORBOLE",
+            "quota": 1779,
+            "latitudine": "45.825687",
+            "longitudine": "10.89442"
+        },
+        {
+            "localita": "MONTE ALTISSIMO",
+            "comune": "NAGO - TORBOLE",
+            "quota": 2078,
+            "latitudine": "45.81013",
+            "longitudine": "10.888835"
+        },
+        {
+            "localita": "TORBOLE",
+            "comune": "NAGO - TORBOLE",
+            "quota": 75,
+            "latitudine": "45.869666",
+            "longitudine": "10.8759"
+        },
+        {
+            "localita": "NAVE SAN ROCCO",
+            "comune": "NAVE SAN ROCCO",
+            "quota": 203,
+            "latitudine": "46.166351",
+            "longitudine": "11.11008"
+        },
+        {
+            "localita": "NOGAREDO",
+            "comune": "NOGAREDO",
+            "quota": 212,
+            "latitudine": "45.911904",
+            "longitudine": "11.024818"
+        },
+        {
+            "localita": "NOMI",
+            "comune": "NOMI",
+            "quota": 179,
+            "latitudine": "45.929542",
+            "longitudine": "11.069781"
+        },
+        {
+            "localita": "NOVALEDO",
+            "comune": "NOVALEDO",
+            "quota": 473,
+            "latitudine": "46.021798",
+            "longitudine": "11.365011"
+        },
+        {
+            "localita": "MONTE PANAROTTA",
+            "comune": "NOVALEDO",
+            "quota": 2001,
+            "latitudine": "46.050058",
+            "longitudine": "11.334486"
+        },
+        {
+            "localita": "OSPEDALETTO",
+            "comune": "OSPEDALETTO",
+            "quota": 341,
+            "latitudine": "46.043594",
+            "longitudine": "11.55273"
+        },
+        {
+            "localita": "OSSANA",
+            "comune": "OSSANA",
+            "quota": 995,
+            "latitudine": "46.306907",
+            "longitudine": "10.73753"
+        },
+        {
+            "localita": "CIMA PREDAZZO",
+            "comune": "OSSANA",
+            "quota": 2926,
+            "latitudine": "46.254604",
+            "longitudine": "10.700543"
+        },
+        {
+            "localita": "MONTE LEMPERPERCH",
+            "comune": "PALU' DEL FERSINA",
+            "quota": 2001,
+            "latitudine": "46.145773",
+            "longitudine": "11.337494"
+        },
+        {
+            "localita": "PALU' DEL FERSINA",
+            "comune": "PALU' DEL FERSINA",
+            "quota": 1560,
+            "latitudine": "46.13693",
+            "longitudine": "11.355541"
+        },
+        {
+            "localita": "RIFUGIO ERDEMOLO",
+            "comune": "PALU' DEL FERSINA",
+            "quota": 2006,
+            "latitudine": "46.11079",
+            "longitudine": "11.376171"
+        },
+        {
+            "localita": "RIFUGIO SETTE SELLE",
+            "comune": "PALU' DEL FERSINA",
+            "quota": 1977,
+            "latitudine": "46.132311",
+            "longitudine": "11.392221"
+        },
+        {
+            "localita": "MONTE RUJOCH",
+            "comune": "PALU' DEL FERSINA",
+            "quota": 2413,
+            "latitudine": "46.153994",
+            "longitudine": "11.363562"
+        },
+        {
+            "localita": "PANCHIA",
+            "comune": "PANCHIA'",
+            "quota": 964,
+            "latitudine": "46.285864",
+            "longitudine": "11.543897"
+        },
+        {
+            "localita": "VAL DI GRESTA",
+            "comune": "RONZO-CHIENIS",
+            "quota": 839,
+            "latitudine": "45.877869",
+            "longitudine": "10.943108"
+        },
+        {
+            "localita": "RONZO-CHIENIS",
+            "comune": "RONZO-CHIENIS",
+            "quota": 974,
+            "latitudine": "45.891446",
+            "longitudine": "10.951298"
+        },
+        {
+            "localita": "RIFUGIO VIOZ",
+            "comune": "PEIO",
+            "quota": 3524,
+            "latitudine": "46.399174",
+            "longitudine": "10.635753"
+        },
+        {
+            "localita": "VAL DE LA MARE",
+            "comune": "PEIO",
+            "quota": 1336,
+            "latitudine": "46.37683",
+            "longitudine": "10.69082"
+        },
+        {
+            "localita": "VALLE DI PEIO",
+            "comune": "PEIO",
+            "quota": 1137,
+            "latitudine": "46.324587",
+            "longitudine": "10.709476"
+        },
+        {
+            "localita": "PUNTA DI SAN MATTEO",
+            "comune": "PEIO",
+            "quota": 3672,
+            "latitudine": "46.377735",
+            "longitudine": "10.56708"
+        },
+        {
+            "localita": "VAL DE LA MITE",
+            "comune": "PEIO",
+            "quota": 2748,
+            "latitudine": "46.387787",
+            "longitudine": "10.639078"
+        },
+        {
+            "localita": "MONTE CEVEDALE",
+            "comune": "PEIO",
+            "quota": 3761,
+            "latitudine": "46.443763",
+            "longitudine": "10.616758"
+        },
+        {
+            "localita": "RIFUGIO CEVEDALE GUIDO LARCHER",
+            "comune": "PEIO",
+            "quota": 2579,
+            "latitudine": "46.436792",
+            "longitudine": "10.666008"
+        },
+        {
+            "localita": "PEIO",
+            "comune": "PEIO",
+            "quota": 1553,
+            "latitudine": "46.364449",
+            "longitudine": "10.67821"
+        },
+        {
+            "localita": "COGOLO",
+            "comune": "PEIO",
+            "quota": 1166,
+            "latitudine": "46.352298",
+            "longitudine": "10.693325"
+        },
+        {
+            "localita": "PELLIZZANO",
+            "comune": "PELLIZZANO",
+            "quota": 924,
+            "latitudine": "46.309707",
+            "longitudine": "10.760506"
+        },
+        {
+            "localita": "PELUGO",
+            "comune": "PELUGO",
+            "quota": 659,
+            "latitudine": "46.088486",
+            "longitudine": "10.723107"
+        },
+        {
+            "localita": "RIFUGIO CARE' ALTO",
+            "comune": "PELUGO",
+            "quota": 2449,
+            "latitudine": "46.107614",
+            "longitudine": "10.626075"
+        },
+        {
+            "localita": "MONTE CARE' ALTO",
+            "comune": "PELUGO",
+            "quota": 3464,
+            "latitudine": "46.107801",
+            "longitudine": "10.596157"
+        },
+        {
+            "localita": "PERGINE VALSUGANA",
+            "comune": "PERGINE VALSUGANA",
+            "quota": 482,
+            "latitudine": "46.063174",
+            "longitudine": "11.242151"
+        },
+        {
+            "localita": "Alta Valsugana",
+            "comune": "PERGINE VALSUGANA",
+            "quota": 482,
+            "latitudine": "46.063174",
+            "longitudine": "11.242151"
+        },
+        {
+            "localita": "VAL MALENE",
+            "comune": "PIEVE TESINO",
+            "quota": 1095,
+            "latitudine": "46.113676",
+            "longitudine": "11.617227"
+        },
+        {
+            "localita": "RIFUGIO REFAVAIE",
+            "comune": "PIEVE TESINO",
+            "quota": 1104,
+            "latitudine": "46.216206",
+            "longitudine": "11.623506"
+        },
+        {
+            "localita": "PIEVE TESINO",
+            "comune": "PIEVE TESINO",
+            "quota": 834,
+            "latitudine": "46.068808",
+            "longitudine": "11.606925"
+        },
+        {
+            "localita": "RIFUGIO CIMA D'ASTA OTTONE BRENTARI",
+            "comune": "PIEVE TESINO",
+            "quota": 2472,
+            "latitudine": "46.170221",
+            "longitudine": "11.604448"
+        },
+        {
+            "localita": "PINZOLO",
+            "comune": "PINZOLO",
+            "quota": 770,
+            "latitudine": "46.159162",
+            "longitudine": "10.765126"
+        },
+        {
+            "localita": "MADONNA DI CAMPIGLIO",
+            "comune": "PINZOLO",
+            "quota": 1556,
+            "latitudine": "46.22748",
+            "longitudine": "10.826685"
+        },
+        {
+            "localita": "RIFUGIO MALGHETTE",
+            "comune": "PINZOLO",
+            "quota": 1888,
+            "latitudine": "46.266662",
+            "longitudine": "10.822392"
+        },
+        {
+            "localita": "VAL DI CAMPIGLIO",
+            "comune": "PINZOLO",
+            "quota": 1274,
+            "latitudine": "46.186192",
+            "longitudine": "10.797767"
+        },
+        {
+            "localita": "VAL NAMBRONE",
+            "comune": "PINZOLO",
+            "quota": 1352,
+            "latitudine": "46.20523",
+            "longitudine": "10.75304"
+        },
+        {
+            "localita": "POMAROLO",
+            "comune": "POMAROLO",
+            "quota": 198,
+            "latitudine": "45.926386",
+            "longitudine": "11.043371"
+        },
+        {
+            "localita": "POZZA DI FASSA POZA",
+            "comune": "POZZA DI FASSA",
+            "quota": 1306,
+            "latitudine": "46.428359",
+            "longitudine": "11.684165"
+        },
+        {
+            "localita": "RIFUGIO CONTRIN",
+            "comune": "POZZA DI FASSA",
+            "quota": 2015,
+            "latitudine": "46.429745",
+            "longitudine": "11.815935"
+        },
+        {
+            "localita": "RIFUGIO AL PASSO PRINCIPE",
+            "comune": "POZZA DI FASSA",
+            "quota": 2598,
+            "latitudine": "46.474059",
+            "longitudine": "11.638813"
+        },
+        {
+            "localita": "GRAN VERNEL",
+            "comune": "POZZA DI FASSA",
+            "quota": 3208,
+            "latitudine": "46.442366",
+            "longitudine": "11.832146"
+        },
+        {
+            "localita": "BUFFAURE",
+            "comune": "POZZA DI FASSA",
+            "quota": 2070,
+            "latitudine": "46.430081",
+            "longitudine": "11.72745"
+        },
+        {
+            "localita": "VALLE SAN NICOLO'",
+            "comune": "POZZA DI FASSA",
+            "quota": 1612,
+            "latitudine": "46.421288",
+            "longitudine": "11.728297"
+        },
+        {
+            "localita": "TORRI DEL VAIOLET",
+            "comune": "POZZA DI FASSA",
+            "quota": 2752,
+            "latitudine": "46.461616",
+            "longitudine": "11.627131"
+        },
+        {
+            "localita": "CATINACCIO D'ANTERMOIA",
+            "comune": "POZZA DI FASSA",
+            "quota": 2954,
+            "latitudine": "46.472277",
+            "longitudine": "11.644395"
+        },
+        {
+            "localita": "GRUPPO DEL CATINACCIO",
+            "comune": "POZZA DI FASSA",
+            "quota": 2722,
+            "latitudine": "46.471992",
+            "longitudine": "11.630527"
+        },
+        {
+            "localita": "VAL DI FASSA",
+            "comune": "POZZA DI FASSA",
+            "quota": 1449,
+            "latitudine": "46.433085",
+            "longitudine": "11.681473"
+        },
+        {
+            "localita": "RIFUGIO GARDECCIA",
+            "comune": "POZZA DI FASSA",
+            "quota": 1955,
+            "latitudine": "46.447534",
+            "longitudine": "11.639231"
+        },
+        {
+            "localita": "RIFUGIO VAJOLET",
+            "comune": "POZZA DI FASSA",
+            "quota": 2243,
+            "latitudine": "46.458592",
+            "longitudine": "11.632789"
+        },
+        {
+            "localita": "RIFUGIO VALLACCIA",
+            "comune": "POZZA DI FASSA",
+            "quota": 2201,
+            "latitudine": "46.397268",
+            "longitudine": "11.722889"
+        },
+        {
+            "localita": "RIFUGIO TARAMELLI",
+            "comune": "POZZA DI FASSA",
+            "quota": 2039,
+            "latitudine": "46.394587",
+            "longitudine": "11.740597"
+        },
+        {
+            "localita": "RIFUGIO TORRE DI PISA",
+            "comune": "PREDAZZO",
+            "quota": 2670,
+            "latitudine": "46.360747",
+            "longitudine": "11.56022"
+        },
+        {
+            "localita": "VALMAGGIORE",
+            "comune": "PREDAZZO",
+            "quota": 1728,
+            "latitudine": "46.274031",
+            "longitudine": "11.651373"
+        },
+        {
+            "localita": "CIMON LATEMAR",
+            "comune": "PREDAZZO",
+            "quota": 2845,
+            "latitudine": "46.381079",
+            "longitudine": "11.575097"
+        },
+        {
+            "localita": "PREDAZZO",
+            "comune": "PREDAZZO",
+            "quota": 1016,
+            "latitudine": "46.312235",
+            "longitudine": "11.602902"
+        },
+        {
+            "localita": "LATEMAR",
+            "comune": "PREDAZZO",
+            "quota": 2155,
+            "latitudine": "46.373418",
+            "longitudine": "11.592146"
+        },
+        {
+            "localita": "RABBI",
+            "comune": "RABBI",
+            "quota": 1416,
+            "latitudine": "46.411594",
+            "longitudine": "10.806174"
+        },
+        {
+            "localita": "CIMA VENEZIA",
+            "comune": "RABBI",
+            "quota": 3386,
+            "latitudine": "46.453746",
+            "longitudine": "10.68937"
+        },
+        {
+            "localita": "VAL DI RABBI",
+            "comune": "RABBI",
+            "quota": 1149,
+            "latitudine": "46.381239",
+            "longitudine": "10.860259"
+        },
+        {
+            "localita": "RIFUGIO STELLA ALPINA",
+            "comune": "RABBI",
+            "quota": 2429,
+            "latitudine": "46.44043",
+            "longitudine": "10.820857"
+        },
+        {
+            "localita": "RIFUGIO DORIGONI",
+            "comune": "RABBI",
+            "quota": 2436,
+            "latitudine": "46.460756",
+            "longitudine": "10.751879"
+        },
+        {
+            "localita": "REVO",
+            "comune": "REVO'",
+            "quota": 732,
+            "latitudine": "46.391633",
+            "longitudine": "11.05865"
+        },
+        {
+            "localita": "RIFUGIO PERNICI",
+            "comune": "RIVA DEL GARDA",
+            "quota": 1602,
+            "latitudine": "45.926618",
+            "longitudine": "10.768747"
+        },
+        {
+            "localita": "RIVA DEL GARDA",
+            "comune": "RIVA DEL GARDA",
+            "quota": 77,
+            "latitudine": "45.888902",
+            "longitudine": "10.842832"
+        },
+        {
+            "localita": "VARONE",
+            "comune": "RIVA DEL GARDA",
+            "quota": 127,
+            "latitudine": "45.908845",
+            "longitudine": "10.84187"
+        },
+        {
+            "localita": "ROMALLO",
+            "comune": "ROMALLO",
+            "quota": 735,
+            "latitudine": "46.39633",
+            "longitudine": "11.066051"
+        },
+        {
+            "localita": "ROMENO",
+            "comune": "ROMENO",
+            "quota": 959,
+            "latitudine": "46.394368",
+            "longitudine": "11.117277"
+        },
+        {
+            "localita": "RONCEGNO",
+            "comune": "RONCEGNO",
+            "quota": 488,
+            "latitudine": "46.051599",
+            "longitudine": "11.4099"
+        },
+        {
+            "localita": "RIFUGIO SEROT",
+            "comune": "RONCEGNO",
+            "quota": 1571,
+            "latitudine": "46.073237",
+            "longitudine": "11.388072"
+        },
+        {
+            "localita": "RIFUGIO ERTERLE",
+            "comune": "RONCEGNO",
+            "quota": 1427,
+            "latitudine": "46.052719",
+            "longitudine": "11.359242"
+        },
+        {
+            "localita": "MONTE FRAVORT",
+            "comune": "RONCEGNO",
+            "quota": 2345,
+            "latitudine": "46.0761",
+            "longitudine": "11.351291"
+        },
+        {
+            "localita": "RONCHI VALSUGANA",
+            "comune": "RONCHI VALSUGANA",
+            "quota": 767,
+            "latitudine": "46.068147",
+            "longitudine": "11.435215"
+        },
+        {
+            "localita": "RONZONE",
+            "comune": "RONZONE",
+            "quota": 1095,
+            "latitudine": "46.424987",
+            "longitudine": "11.153057"
+        },
+        {
+            "localita": "ROVERE' DELLA LUNA",
+            "comune": "ROVERE' DELLA LUNA",
+            "quota": 250,
+            "latitudine": "46.249819",
+            "longitudine": "11.170204"
+        },
+        {
+            "localita": "ROVERETO",
+            "comune": "ROVERETO",
+            "quota": 196,
+            "latitudine": "45.887303",
+            "longitudine": "11.040389"
+        },
+        {
+            "localita": "RIFUGIO MONTE ZUGNA",
+            "comune": "ROVERETO",
+            "quota": 1612,
+            "latitudine": "45.807833",
+            "longitudine": "11.05791"
+        },
+        {
+            "localita": "SACCO",
+            "comune": "ROVERETO",
+            "quota": 180,
+            "latitudine": "45.884803",
+            "longitudine": "11.023256"
+        },
+        {
+            "localita": "Vallagarina",
+            "comune": "ROVERETO",
+            "quota": 203,
+            "latitudine": "45.887303",
+            "longitudine": "11.040389"
+        },
+        {
+            "localita": "LAVINI",
+            "comune": "ROVERETO",
+            "quota": 189,
+            "latitudine": "45.857922",
+            "longitudine": "11.011662"
+        },
+        {
+            "localita": "LIZZANA",
+            "comune": "ROVERETO",
+            "quota": 192,
+            "latitudine": "45.868346",
+            "longitudine": "11.032443"
+        },
+        {
+            "localita": "LIZZANELLA",
+            "comune": "ROVERETO",
+            "quota": 190,
+            "latitudine": "45.878385",
+            "longitudine": "11.035506"
+        },
+        {
+            "localita": "MARCO",
+            "comune": "ROVERETO",
+            "quota": 176,
+            "latitudine": "45.842314",
+            "longitudine": "11.009833"
+        },
+        {
+            "localita": "RIFUGIO FILZI AL MONTE FINONCHIO",
+            "comune": "ROVERETO",
+            "quota": 1584,
+            "latitudine": "45.900507",
+            "longitudine": "11.114688"
+        },
+        {
+            "localita": "RUFFRE",
+            "comune": "RUFFRE'",
+            "quota": 1185,
+            "latitudine": "46.414942",
+            "longitudine": "11.176362"
+        },
+        {
+            "localita": "RUMO",
+            "comune": "RUMO",
+            "quota": 1068,
+            "latitudine": "46.452093",
+            "longitudine": "11.010894"
+        },
+        {
+            "localita": "RIFUGIO MADDALENE",
+            "comune": "RUMO",
+            "quota": 1934,
+            "latitudine": "46.476302",
+            "longitudine": "10.985615"
+        },
+        {
+            "localita": "MOCENIGO",
+            "comune": "RUMO",
+            "quota": 1045,
+            "latitudine": "46.45391",
+            "longitudine": "11.008531"
+        },
+        {
+            "localita": "ALPE DI LAVAZZE'",
+            "comune": "RUMO",
+            "quota": 2175,
+            "latitudine": "46.461973",
+            "longitudine": "10.951037"
+        },
+        {
+            "localita": "SAGRON",
+            "comune": "SAGRON MIS",
+            "quota": 1059,
+            "latitudine": "46.194841",
+            "longitudine": "11.943316"
+        },
+        {
+            "localita": "SAMONE",
+            "comune": "SAMONE",
+            "quota": 683,
+            "latitudine": "46.081558",
+            "longitudine": "11.522431"
+        },
+        {
+            "localita": "SAN MICHELE ALL'ADIGE",
+            "comune": "SAN MICHELE ALL'ADIGE",
+            "quota": 218,
+            "latitudine": "46.194308",
+            "longitudine": "11.133829"
+        },
+        {
+            "localita": "GRUMO",
+            "comune": "SAN MICHELE ALL'ADIGE",
+            "quota": 210,
+            "latitudine": "46.194551",
+            "longitudine": "11.130272"
+        },
+        {
+            "localita": "PASSO DEL REDEBUS",
+            "comune": "SANT'ORSOLA",
+            "quota": 1455,
+            "latitudine": "46.135729",
+            "longitudine": "11.323403"
+        },
+        {
+            "localita": "SANT'ORSOLA",
+            "comune": "SANT'ORSOLA",
+            "quota": 945,
+            "latitudine": "46.108133",
+            "longitudine": "11.302522"
+        },
+        {
+            "localita": "VALLE DEI MOCHENI",
+            "comune": "SANT'ORSOLA",
+            "quota": 951,
+            "latitudine": "46.108469",
+            "longitudine": "11.302013"
+        },
+        {
+            "localita": "SANZENO",
+            "comune": "SANZENO",
+            "quota": 655,
+            "latitudine": "46.366139",
+            "longitudine": "11.074664"
+        },
+        {
+            "localita": "BANCO-CASEZ",
+            "comune": "SANZENO",
+            "quota": 685,
+            "latitudine": "46.374507",
+            "longitudine": "11.073387"
+        },
+        {
+            "localita": "SARNONICO",
+            "comune": "SARNONICO",
+            "quota": 975,
+            "latitudine": "46.418759",
+            "longitudine": "11.141023"
+        },
+        {
+            "localita": "SCURELLE",
+            "comune": "SCURELLE",
+            "quota": 385,
+            "latitudine": "46.065088",
+            "longitudine": "11.506524"
+        },
+        {
+            "localita": "RIFUGIO CONSERIA",
+            "comune": "SCURELLE",
+            "quota": 1849,
+            "latitudine": "46.170459",
+            "longitudine": "11.540389"
+        },
+        {
+            "localita": "RIFUGIO CARLETTINI",
+            "comune": "SCURELLE",
+            "quota": 1365,
+            "latitudine": "46.151609",
+            "longitudine": "11.516451"
+        },
+        {
+            "localita": "RIFUGIO CALDENAVE",
+            "comune": "SCURELLE",
+            "quota": 1796,
+            "latitudine": "46.134586",
+            "longitudine": "11.544228"
+        },
+        {
+            "localita": "SEGONZANO",
+            "comune": "SEGONZANO",
+            "quota": 632,
+            "latitudine": "46.19064",
+            "longitudine": "11.25644"
+        },
+        {
+            "localita": "VAL DI CEMBRA",
+            "comune": "SEGONZANO",
+            "quota": 655,
+            "latitudine": "46.18204",
+            "longitudine": "11.264819"
+        },
+        {
+            "localita": "SFRUZ",
+            "comune": "SFRUZ",
+            "quota": 1009,
+            "latitudine": "46.337259",
+            "longitudine": "11.115364"
+        },
+        {
+            "localita": "SORAGA",
+            "comune": "SORAGA",
+            "quota": 1222,
+            "latitudine": "46.39665",
+            "longitudine": "11.66788"
+        },
+        {
+            "localita": "FUCIADE",
+            "comune": "SORAGA",
+            "quota": 1968,
+            "latitudine": "46.389744",
+            "longitudine": "11.824619"
+        },
+        {
+            "localita": "SOVER",
+            "comune": "SOVER",
+            "quota": 829,
+            "latitudine": "46.221903",
+            "longitudine": "11.31517"
+        },
+        {
+            "localita": "SPIAZZO",
+            "comune": "SPIAZZO",
+            "quota": 651,
+            "latitudine": "46.102334",
+            "longitudine": "10.73829"
+        },
+        {
+            "localita": "RIFUGIO MANDRON",
+            "comune": "SPIAZZO",
+            "quota": 2439,
+            "latitudine": "46.202556",
+            "longitudine": "10.570982"
+        },
+        {
+            "localita": "LOBBIE",
+            "comune": "SPIAZZO",
+            "quota": 2986,
+            "latitudine": "46.149944",
+            "longitudine": "10.572483"
+        },
+        {
+            "localita": "MANDRONE",
+            "comune": "SPIAZZO",
+            "quota": 3058,
+            "latitudine": "46.189731",
+            "longitudine": "10.545708"
+        },
+        {
+            "localita": "RIFUGIO AI CADUTI DELL'ADAMELLO",
+            "comune": "SPIAZZO",
+            "quota": 3034,
+            "latitudine": "46.168719",
+            "longitudine": "10.564937"
+        },
+        {
+            "localita": "RIFUGIO BEDOLE",
+            "comune": "SPIAZZO",
+            "quota": 1633,
+            "latitudine": "46.197553",
+            "longitudine": "10.596652"
+        },
+        {
+            "localita": "SPORMAGGIORE",
+            "comune": "SPORMAGGIORE",
+            "quota": 571,
+            "latitudine": "46.218112",
+            "longitudine": "11.048393"
+        },
+        {
+            "localita": "SPORMINORE",
+            "comune": "SPORMINORE",
+            "quota": 525,
+            "latitudine": "46.237191",
+            "longitudine": "11.03124"
+        },
+        {
+            "localita": "STENICO",
+            "comune": "STENICO",
+            "quota": 658,
+            "latitudine": "46.052022",
+            "longitudine": "10.853941"
+        },
+        {
+            "localita": "RIFUGIO DODICI APOSTOLI",
+            "comune": "STENICO",
+            "quota": 2459,
+            "latitudine": "46.150896",
+            "longitudine": "10.847154"
+        },
+        {
+            "localita": "STORO",
+            "comune": "STORO",
+            "quota": 394,
+            "latitudine": "45.848216",
+            "longitudine": "10.580019"
+        },
+        {
+            "localita": "VALLE D' AMPOLA",
+            "comune": "STORO",
+            "quota": 658,
+            "latitudine": "45.84293",
+            "longitudine": "10.611794"
+        },
+        {
+            "localita": "VAL DI GENOVA",
+            "comune": "STREMBO",
+            "quota": 1561,
+            "latitudine": "46.179137",
+            "longitudine": "10.640469"
+        },
+        {
+            "localita": "STREMBO",
+            "comune": "STREMBO",
+            "quota": 717,
+            "latitudine": "46.12012",
+            "longitudine": "10.751294"
+        },
+        {
+            "localita": "TELVE",
+            "comune": "TELVE",
+            "quota": 541,
+            "latitudine": "46.070527",
+            "longitudine": "11.477991"
+        },
+        {
+            "localita": "VAL CALAMENTO",
+            "comune": "TELVE",
+            "quota": 1422,
+            "latitudine": "46.141608",
+            "longitudine": "11.473412"
+        },
+        {
+            "localita": "RIFUGIO PASSO MANGHEN",
+            "comune": "TELVE",
+            "quota": 2016,
+            "latitudine": "46.174474",
+            "longitudine": "11.440276"
+        },
+        {
+            "localita": "PASSO MANGHEN",
+            "comune": "TELVE",
+            "quota": 2042,
+            "latitudine": "46.17329",
+            "longitudine": "11.441435"
+        },
+        {
+            "localita": "MONTE CISTE",
+            "comune": "TELVE DI SOPRA",
+            "quota": 2180,
+            "latitudine": "46.113408",
+            "longitudine": "11.446198"
+        },
+        {
+            "localita": "CIMA DI SETTE SELLE",
+            "comune": "TELVE DI SOPRA",
+            "quota": 2272,
+            "latitudine": "46.129179",
+            "longitudine": "11.400837"
+        },
+        {
+            "localita": "TELVE DI SOPRA",
+            "comune": "TELVE DI SOPRA",
+            "quota": 651,
+            "latitudine": "46.072282",
+            "longitudine": "11.471617"
+        },
+        {
+            "localita": "TENNA",
+            "comune": "TENNA",
+            "quota": 568,
+            "latitudine": "46.014275",
+            "longitudine": "11.266347"
+        },
+        {
+            "localita": "TENNO",
+            "comune": "TENNO",
+            "quota": 425,
+            "latitudine": "45.919861",
+            "longitudine": "10.832587"
+        },
+        {
+            "localita": "RIFUGIO SAN PIETRO",
+            "comune": "TENNO",
+            "quota": 972,
+            "latitudine": "45.932858",
+            "longitudine": "10.838671"
+        },
+        {
+            "localita": "TERRAGNOLO",
+            "comune": "TERRAGNOLO",
+            "quota": 556,
+            "latitudine": "45.874999",
+            "longitudine": "11.145663"
+        },
+        {
+            "localita": "RIFUGIO BAITA TONDA - MARTINELLA",
+            "comune": "TERRAGNOLO",
+            "quota": 1603,
+            "latitudine": "45.887818",
+            "longitudine": "11.175454"
+        },
+        {
+            "localita": "TERZOLAS",
+            "comune": "TERZOLAS",
+            "quota": 745,
+            "latitudine": "46.361498",
+            "longitudine": "10.926614"
+        },
+        {
+            "localita": "TESERO",
+            "comune": "TESERO",
+            "quota": 999,
+            "latitudine": "46.289592",
+            "longitudine": "11.511772"
+        },
+        {
+            "localita": "VAL DI STAVA",
+            "comune": "TESERO",
+            "quota": 1650,
+            "latitudine": "46.332279",
+            "longitudine": "11.526416"
+        },
+        {
+            "localita": "CIMA DI LAGORAI",
+            "comune": "TESERO",
+            "quota": 2550,
+            "latitudine": "46.202056",
+            "longitudine": "11.524414"
+        },
+        {
+            "localita": "PAMPEAGO",
+            "comune": "TESERO",
+            "quota": 1750,
+            "latitudine": "46.34195",
+            "longitudine": "11.540108"
+        },
+        {
+            "localita": "Giudicarie interiori",
+            "comune": "TIONE DI TRENTO",
+            "quota": 567,
+            "latitudine": "46.035222",
+            "longitudine": "10.72866"
+        },
+        {
+            "localita": "TIONE DI TRENTO",
+            "comune": "TIONE DI TRENTO",
+            "quota": 567,
+            "latitudine": "46.035222",
+            "longitudine": "10.72866"
+        },
+        {
+            "localita": "TON",
+            "comune": "TON",
+            "quota": 534,
+            "latitudine": "46.270306",
+            "longitudine": "11.084512"
+        },
+        {
+            "localita": "LA ROCCHETTA",
+            "comune": "TON",
+            "quota": 268,
+            "latitudine": "46.231917",
+            "longitudine": "11.067857"
+        },
+        {
+            "localita": "TORCEGNO",
+            "comune": "TORCEGNO",
+            "quota": 764,
+            "latitudine": "46.072907",
+            "longitudine": "11.449819"
+        },
+        {
+            "localita": "TRAMBILENO",
+            "comune": "TRAMBILENO",
+            "quota": 584,
+            "latitudine": "45.867257",
+            "longitudine": "11.076661"
+        },
+        {
+            "localita": "RIFUGIO LANCIA",
+            "comune": "TRAMBILENO",
+            "quota": 1802,
+            "latitudine": "45.827315",
+            "longitudine": "11.144756"
+        },
+        {
+            "localita": "PASUBIO",
+            "comune": "TRAMBILENO",
+            "quota": 1757,
+            "latitudine": "45.805719",
+            "longitudine": "11.151224"
+        },
+        {
+            "localita": "RIFUGIO BINDESI",
+            "comune": "TRENTO",
+            "quota": 611,
+            "latitudine": "46.03616",
+            "longitudine": "11.153945"
+        },
+        {
+            "localita": "RAVINA",
+            "comune": "TRENTO",
+            "quota": 251,
+            "latitudine": "46.037706",
+            "longitudine": "11.107408"
+        },
+        {
+            "localita": "LE LASTE",
+            "comune": "TRENTO",
+            "quota": 312,
+            "latitudine": "46.071851",
+            "longitudine": "11.135653"
+        },
+        {
+            "localita": "MARTIGNANO",
+            "comune": "TRENTO",
+            "quota": 374,
+            "latitudine": "46.08907",
+            "longitudine": "11.129858"
+        },
+        {
+            "localita": "MEANO",
+            "comune": "TRENTO",
+            "quota": 341,
+            "latitudine": "46.122649",
+            "longitudine": "11.117021"
+        },
+        {
+            "localita": "MELTA",
+            "comune": "TRENTO",
+            "quota": 196,
+            "latitudine": "46.099828",
+            "longitudine": "11.119005"
+        },
+        {
+            "localita": "MATTARELLO",
+            "comune": "TRENTO",
+            "quota": 197,
+            "latitudine": "46.006442",
+            "longitudine": "11.127555"
+        },
+        {
+            "localita": "GARDOLO",
+            "comune": "TRENTO",
+            "quota": 200,
+            "latitudine": "46.108176",
+            "longitudine": "11.111653"
+        },
+        {
+            "localita": "COGNOLA",
+            "comune": "TRENTO",
+            "quota": 375,
+            "latitudine": "46.07597",
+            "longitudine": "11.146614"
+        },
+        {
+            "localita": "CANOVA",
+            "comune": "TRENTO",
+            "quota": 194,
+            "latitudine": "46.100203",
+            "longitudine": "11.108857"
+        },
+        {
+            "localita": "RIFUGIO MARANZA",
+            "comune": "TRENTO",
+            "quota": 1081,
+            "latitudine": "46.027577",
+            "longitudine": "11.165629"
+        },
+        {
+            "localita": "RIFUGIO VIOTE",
+            "comune": "TRENTO",
+            "quota": 1542,
+            "latitudine": "46.023266",
+            "longitudine": "11.037762"
+        },
+        {
+            "localita": "RONCAFORT",
+            "comune": "TRENTO",
+            "quota": 194,
+            "latitudine": "46.101822",
+            "longitudine": "11.098762"
+        },
+        {
+            "localita": "TRENTO",
+            "comune": "TRENTO",
+            "quota": 192,
+            "latitudine": "46.071322",
+            "longitudine": "11.120295"
+        },
+        {
+            "localita": "TRENTO - AEROPORTO CAPRONI",
+            "comune": "TRENTO",
+            "quota": 185,
+            "latitudine": "46.017381",
+            "longitudine": "11.124858"
+        },
+        {
+            "localita": "SOPRAMONTE",
+            "comune": "TRENTO",
+            "quota": 625,
+            "latitudine": "46.072181",
+            "longitudine": "11.060402"
+        },
+        {
+            "localita": "Val d’Adige",
+            "comune": "TRENTO",
+            "quota": 194,
+            "latitudine": "46.071322",
+            "longitudine": "11.120295"
+        },
+        {
+            "localita": "LA MARZOLA",
+            "comune": "TRENTO",
+            "quota": 1736,
+            "latitudine": "46.031879",
+            "longitudine": "11.187522"
+        },
+        {
+            "localita": "VASON",
+            "comune": "TRENTO",
+            "quota": 1652,
+            "latitudine": "46.040625",
+            "longitudine": "11.05849"
+        },
+        {
+            "localita": "VILLAZZANO",
+            "comune": "TRENTO",
+            "quota": 270,
+            "latitudine": "46.04856",
+            "longitudine": "11.138023"
+        },
+        {
+            "localita": "VALFLORIANA",
+            "comune": "VALFLORIANA",
+            "quota": 1068,
+            "latitudine": "46.23576",
+            "longitudine": "11.346084"
+        },
+        {
+            "localita": "RIFUGIO MALGA SASS",
+            "comune": "VALFLORIANA",
+            "quota": 1910,
+            "latitudine": "46.202129",
+            "longitudine": "11.379311"
+        },
+        {
+            "localita": "VALLARSA",
+            "comune": "VALLARSA",
+            "quota": 712,
+            "latitudine": "45.787582",
+            "longitudine": "11.099608"
+        },
+        {
+            "localita": "PASSO PIAN DELLE FUGAZZE",
+            "comune": "VALLARSA",
+            "quota": 1164,
+            "latitudine": "45.760302",
+            "longitudine": "11.172767"
+        },
+        {
+            "localita": "PASSO DI LAVAZE'",
+            "comune": "VARENA",
+            "quota": 1816,
+            "latitudine": "46.354092",
+            "longitudine": "11.489754"
+        },
+        {
+            "localita": "VARENA",
+            "comune": "VARENA",
+            "quota": 1209,
+            "latitudine": "46.306583",
+            "longitudine": "11.458709"
+        },
+        {
+            "localita": "VAL VERMIGLIO",
+            "comune": "VERMIGLIO",
+            "quota": 1492,
+            "latitudine": "46.270117",
+            "longitudine": "10.641218"
+        },
+        {
+            "localita": "VERMIGLIO",
+            "comune": "VERMIGLIO",
+            "quota": 1240,
+            "latitudine": "46.296399",
+            "longitudine": "10.688507"
+        },
+        {
+            "localita": "PRESENA",
+            "comune": "VERMIGLIO",
+            "quota": 2743,
+            "latitudine": "46.222127",
+            "longitudine": "10.593788"
+        },
+        {
+            "localita": "RIFUGIO STAVEL DENZA",
+            "comune": "VERMIGLIO",
+            "quota": 2296,
+            "latitudine": "46.243383",
+            "longitudine": "10.655247"
+        },
+        {
+            "localita": "PASSO DEL TONALE",
+            "comune": "VERMIGLIO",
+            "quota": 1832,
+            "latitudine": "46.258557",
+            "longitudine": "10.590497"
+        },
+        {
+            "localita": "RIFUGIO CAPANNA PRESENA",
+            "comune": "VERMIGLIO",
+            "quota": 2731,
+            "latitudine": "46.227536",
+            "longitudine": "10.579892"
+        },
+        {
+            "localita": "ALPE VERNIANA",
+            "comune": "VERMIGLIO",
+            "quota": 2345,
+            "latitudine": "46.308866",
+            "longitudine": "10.632713"
+        },
+        {
+            "localita": "VIGNOLA FALESINA",
+            "comune": "VIGNOLA-FALESINA",
+            "quota": 1389,
+            "latitudine": "46.060959",
+            "longitudine": "11.282579"
+        },
+        {
+            "localita": "VIGO DI FASSA",
+            "comune": "VIGO DI FASSA",
+            "quota": 1379,
+            "latitudine": "46.419821",
+            "longitudine": "11.674065"
+        },
+        {
+            "localita": "RIFUGIO RODA DI VAEL",
+            "comune": "VIGO DI FASSA",
+            "quota": 2272,
+            "latitudine": "46.42017",
+            "longitudine": "11.630227"
+        },
+        {
+            "localita": "RIFUGIO CIAMPEDIE'",
+            "comune": "VIGO DI FASSA",
+            "quota": 1992,
+            "latitudine": "46.433824",
+            "longitudine": "11.664219"
+        },
+        {
+            "localita": "PASSO COSTALUNGA",
+            "comune": "VIGO DI FASSA",
+            "quota": 1772,
+            "latitudine": "46.406344",
+            "longitudine": "11.609707"
+        },
+        {
+            "localita": "VAL DI CEI",
+            "comune": "VILLA LAGARINA",
+            "quota": 1032,
+            "latitudine": "45.955309",
+            "longitudine": "11.035819"
+        },
+        {
+            "localita": "VILLA LAGARINA",
+            "comune": "VILLA LAGARINA",
+            "quota": 183,
+            "latitudine": "45.914431",
+            "longitudine": "11.031945"
+        },
+        {
+            "localita": "VOLANO",
+            "comune": "VOLANO",
+            "quota": 189,
+            "latitudine": "45.916572",
+            "longitudine": "11.064857"
+        },
+        {
+            "localita": "ZAMBANA",
+            "comune": "ZAMBANA",
+            "quota": 202,
+            "latitudine": "46.155019",
+            "longitudine": "11.074886"
+        },
+        {
+            "localita": "ZAMBANA NUOVA",
+            "comune": "ZAMBANA",
+            "quota": 204,
+            "latitudine": "46.151734",
+            "longitudine": "11.096961"
+        },
+        {
+            "localita": "RIFUGIO LA RODA (PAGANELLA)",
+            "comune": "ZAMBANA",
+            "quota": 2119,
+            "latitudine": "46.143305",
+            "longitudine": "11.037323"
+        },
+        {
+            "localita": "RONCHI",
+            "comune": "ZIANO DI FIEMME",
+            "quota": 1046,
+            "latitudine": "46.296527",
+            "longitudine": "11.579962"
+        },
+        {
+            "localita": "ZIANO DI FIEMME",
+            "comune": "ZIANO DI FIEMME",
+            "quota": 956,
+            "latitudine": "46.287384",
+            "longitudine": "11.565329"
+        },
+        {
+            "localita": "RIFUGIO CAURIOL",
+            "comune": "ZIANO DI FIEMME",
+            "quota": 1595,
+            "latitudine": "46.260283",
+            "longitudine": "11.598977"
+        },
+        {
+            "localita": "LOMASO",
+            "comune": "COMANO TERME",
+            "quota": 636,
+            "latitudine": "46.012955",
+            "longitudine": "10.877839"
+        },
+        {
+            "localita": "BLEGGIO INFERIORE",
+            "comune": "COMANO TERME",
+            "quota": 554,
+            "latitudine": "46.031961",
+            "longitudine": "10.845611"
+        },
+        {
+            "localita": "PONTE ARCHE",
+            "comune": "COMANO TERME",
+            "quota": 400,
+            "latitudine": "46.035598",
+            "longitudine": "10.873566"
+        },
+        {
+            "localita": "COMANO TERME",
+            "comune": "COMANO TERME",
+            "quota": 630,
+            "latitudine": "46.03479",
+            "longitudine": "10.892383"
+        },
+        {
+            "localita": "RIFUGIO GHEDINA",
+            "comune": "COMANO TERME",
+            "quota": 1108,
+            "latitudine": "46.111556",
+            "longitudine": "10.808809"
+        },
+        {
+            "localita": "VAL D'ALGONE",
+            "comune": "COMANO TERME",
+            "quota": 1130,
+            "latitudine": "46.115758",
+            "longitudine": "10.808315"
+        },
+        {
+            "localita": "VAL D'AMPOLA",
+            "comune": "LEDRO",
+            "quota": 829,
+            "latitudine": "45.865724",
+            "longitudine": "10.644974"
+        },
+        {
+            "localita": "TREMALZO",
+            "comune": "LEDRO",
+            "quota": 1560,
+            "latitudine": "45.841659",
+            "longitudine": "10.684142"
+        },
+        {
+            "localita": "VAL DI CONCEI",
+            "comune": "LEDRO",
+            "quota": 1025,
+            "latitudine": "45.928948",
+            "longitudine": "10.725782"
+        },
+        {
+            "localita": "TIARNO DI SOPRA",
+            "comune": "LEDRO",
+            "quota": 743,
+            "latitudine": "45.890356",
+            "longitudine": "10.672959"
+        },
+        {
+            "localita": "TIARNO DI SOTTO",
+            "comune": "LEDRO",
+            "quota": 727,
+            "latitudine": "45.893523",
+            "longitudine": "10.686283"
+        },
+        {
+            "localita": "VAL DI LEDRO",
+            "comune": "LEDRO",
+            "quota": 772,
+            "latitudine": "45.882548",
+            "longitudine": "10.725895"
+        },
+        {
+            "localita": "BEZZECCA",
+            "comune": "LEDRO",
+            "quota": 696,
+            "latitudine": "45.896359",
+            "longitudine": "10.718465"
+        },
+        {
+            "localita": "CONCEI",
+            "comune": "LEDRO",
+            "quota": 789,
+            "latitudine": "45.91237",
+            "longitudine": "10.726073"
+        },
+        {
+            "localita": "CORNO DI PICHEA",
+            "comune": "LEDRO",
+            "quota": 2148,
+            "latitudine": "45.944932",
+            "longitudine": "10.76994"
+        },
+        {
+            "localita": "COSTA DI SALO",
+            "comune": "LEDRO",
+            "quota": 1279,
+            "latitudine": "45.882428",
+            "longitudine": "10.780893"
+        },
+        {
+            "localita": "LEDRO",
+            "comune": "LEDRO",
+            "quota": 1103,
+            "latitudine": "45.885345",
+            "longitudine": "10.717427"
+        },
+        {
+            "localita": "MOLINA DI LEDRO",
+            "comune": "LEDRO",
+            "quota": 646,
+            "latitudine": "45.871499",
+            "longitudine": "10.773104"
+        },
+        {
+            "localita": "PASSO DI TREMALZO",
+            "comune": "LEDRO",
+            "quota": 1581,
+            "latitudine": "45.840499",
+            "longitudine": "10.68586"
+        },
+        {
+            "localita": "PIEVE DI LEDRO",
+            "comune": "LEDRO",
+            "quota": 667,
+            "latitudine": "45.889929",
+            "longitudine": "10.732138"
+        },
+        {
+            "localita": "PREDAIA",
+            "comune": "PREDAIA",
+            "quota": 766,
+            "latitudine": "46.32839",
+            "longitudine": "11.09107"
+        },
+        {
+            "localita": "COREDO",
+            "comune": "PREDAIA",
+            "quota": 842,
+            "latitudine": "46.350081",
+            "longitudine": "11.087899"
+        },
+        {
+            "localita": "ALTOPIANO DELLA PREDAIA",
+            "comune": "PREDAIA",
+            "quota": 1299,
+            "latitudine": "46.324409",
+            "longitudine": "11.143355"
+        },
+        {
+            "localita": "VAL DI NON",
+            "comune": "PREDAIA",
+            "quota": 308,
+            "latitudine": "46.28295",
+            "longitudine": "11.059445"
+        },
+        {
+            "localita": "VERVO'",
+            "comune": "PREDAIA",
+            "quota": 884,
+            "latitudine": "46.307444",
+            "longitudine": "11.119006"
+        },
+        {
+            "localita": "TRES",
+            "comune": "PREDAIA",
+            "quota": 790,
+            "latitudine": "46.321685",
+            "longitudine": "11.095373"
+        },
+        {
+            "localita": "SMARANO",
+            "comune": "PREDAIA",
+            "quota": 977,
+            "latitudine": "46.341817",
+            "longitudine": "11.107848"
+        },
+        {
+            "localita": "TAIO",
+            "comune": "PREDAIA",
+            "quota": 513,
+            "latitudine": "46.320872",
+            "longitudine": "11.066654"
+        },
+        {
+            "localita": "SEGNO",
+            "comune": "PREDAIA",
+            "quota": 520,
+            "latitudine": "46.30615",
+            "longitudine": "11.075497"
+        },
+        {
+            "localita": "RIFUGIO PREDAIA AI TODES-CI",
+            "comune": "PREDAIA",
+            "quota": 1398,
+            "latitudine": "46.315169",
+            "longitudine": "11.152321"
+        },
+        {
+            "localita": "RIFUGIO SILVIO AGOSTINI",
+            "comune": "SAN LORENZO DORSINO",
+            "quota": 2407,
+            "latitudine": "46.142437",
+            "longitudine": "10.869341"
+        },
+        {
+            "localita": "SAN LORENZO IN BANALE",
+            "comune": "SAN LORENZO DORSINO",
+            "quota": 732,
+            "latitudine": "46.076773",
+            "longitudine": "10.909705"
+        },
+        {
+            "localita": "VAL D' AMBIEZ",
+            "comune": "SAN LORENZO DORSINO",
+            "quota": 1549,
+            "latitudine": "46.11187",
+            "longitudine": "10.891552"
+        },
+        {
+            "localita": "RIFUGIO PEDROTTI  ALLA TOSA",
+            "comune": "SAN LORENZO DORSINO",
+            "quota": 2493,
+            "latitudine": "46.154174",
+            "longitudine": "10.898711"
+        },
+        {
+            "localita": "Giudicarie esteriori e Molveno",
+            "comune": "SAN LORENZO DORSINO",
+            "quota": 732,
+            "latitudine": "46.076773",
+            "longitudine": "10.909705"
+        },
+        {
+            "localita": "RIFUGIO AL CACCIATORE",
+            "comune": "SAN LORENZO DORSINO",
+            "quota": 1821,
+            "latitudine": "46.130063",
+            "longitudine": "10.880476"
+        },
+        {
+            "localita": "DORSINO",
+            "comune": "SAN LORENZO DORSINO",
+            "quota": 643,
+            "latitudine": "46.073341",
+            "longitudine": "10.896604"
+        },
+        {
+            "localita": "MONTE FUMO",
+            "comune": "VALDAONE",
+            "quota": 3408,
+            "latitudine": "46.143447",
+            "longitudine": "10.546786"
+        },
+        {
+            "localita": "PRASO",
+            "comune": "VALDAONE",
+            "quota": 788,
+            "latitudine": "45.949236",
+            "longitudine": "10.636825"
+        },
+        {
+            "localita": "BERSONE",
+            "comune": "VALDAONE",
+            "quota": 614,
+            "latitudine": "45.942814",
+            "longitudine": "10.633983"
+        },
+        {
+            "localita": "CIMA COP DI BREGUZZO",
+            "comune": "VALDAONE",
+            "quota": 3001,
+            "latitudine": "46.061962",
+            "longitudine": "10.573882"
+        },
+        {
+            "localita": "CIMA DI BOAZZOLO",
+            "comune": "VALDAONE",
+            "quota": 2591,
+            "latitudine": "45.979112",
+            "longitudine": "10.4965"
+        },
+        {
+            "localita": "DAONE",
+            "comune": "VALDAONE",
+            "quota": 761,
+            "latitudine": "45.946578",
+            "longitudine": "10.620902"
+        },
+        {
+            "localita": "VALLE COP DI BREGUZZO",
+            "comune": "VALDAONE",
+            "quota": 2178,
+            "latitudine": "46.054836",
+            "longitudine": "10.546971"
+        },
+        {
+            "localita": "VALDAONE",
+            "comune": "VALDAONE",
+            "quota": 751,
+            "latitudine": "45.950078",
+            "longitudine": "10.601078"
+        },
+        {
+            "localita": "VALLE DANERBA",
+            "comune": "VALDAONE",
+            "quota": 1643,
+            "latitudine": "46.016077",
+            "longitudine": "10.530944"
+        },
+        {
+            "localita": "VAL DI FUMO",
+            "comune": "VALDAONE",
+            "quota": 1924,
+            "latitudine": "46.087886",
+            "longitudine": "10.560426"
+        },
+        {
+            "localita": "VAL DI DAONE",
+            "comune": "VALDAONE",
+            "quota": 979,
+            "latitudine": "45.974796",
+            "longitudine": "10.541712"
+        },
+        {
+            "localita": "RIFUGIO VAL DI FUMO",
+            "comune": "VALDAONE",
+            "quota": 1911,
+            "latitudine": "46.084476",
+            "longitudine": "10.562548"
+        },
+        {
+            "localita": "VAL DI SOLE",
+            "comune": "DIMARO FOLGARIDA",
+            "quota": 888,
+            "latitudine": "46.318329",
+            "longitudine": "10.878026"
+        },
+        {
+            "localita": "FOLGARIDA",
+            "comune": "DIMARO FOLGARIDA",
+            "quota": 1361,
+            "latitudine": "46.302465",
+            "longitudine": "10.865692"
+        },
+        {
+            "localita": "DIMARO",
+            "comune": "DIMARO FOLGARIDA",
+            "quota": 770,
+            "latitudine": "46.325772",
+            "longitudine": "10.875281"
+        },
+        {
+            "localita": "MONCLASSICO",
+            "comune": "DIMARO FOLGARIDA",
+            "quota": 744,
+            "latitudine": "46.336123",
+            "longitudine": "10.890073"
+        },
+        {
+            "localita": "PREZZO",
+            "comune": "PIEVE DI BONO-PREZZO",
+            "quota": 681,
+            "latitudine": "45.933761",
+            "longitudine": "10.632001"
+        },
+        {
+            "localita": "PIEVE DI BONO",
+            "comune": "PIEVE DI BONO-PREZZO",
+            "quota": 525,
+            "latitudine": "45.940732",
+            "longitudine": "10.639326"
+        },
+        {
+            "localita": "GRUMES",
+            "comune": "ALTAVALLE",
+            "quota": 856,
+            "latitudine": "46.221609",
+            "longitudine": "11.293843"
+        },
+        {
+            "localita": "FAVER",
+            "comune": "ALTAVALLE",
+            "quota": 676,
+            "latitudine": "46.181119",
+            "longitudine": "11.237289"
+        },
+        {
+            "localita": "GRAUNO",
+            "comune": "ALTAVALLE",
+            "quota": 965,
+            "latitudine": "46.230854",
+            "longitudine": "11.298201"
+        },
+        {
+            "localita": "ALTAVALLE",
+            "comune": "ALTAVALLE",
+            "quota": 1125,
+            "latitudine": "46.22352",
+            "longitudine": "11.26766"
+        },
+        {
+            "localita": "VALDA",
+            "comune": "ALTAVALLE",
+            "quota": 773,
+            "latitudine": "46.207216",
+            "longitudine": "11.266891"
+        },
+        {
+            "localita": "RIFUGIO POTZ MAUER",
+            "comune": "ALTAVALLE",
+            "quota": 1289,
+            "latitudine": "46.234966",
+            "longitudine": "11.251609"
+        },
+        {
+            "localita": "RIFUGIO PALUDEI",
+            "comune": "ALTOPIANO DELLA VIGOLANA",
+            "quota": 1061,
+            "latitudine": "45.97126",
+            "longitudine": "11.224406"
+        },
+        {
+            "localita": "VATTARO",
+            "comune": "ALTOPIANO DELLA VIGOLANA",
+            "quota": 688,
+            "latitudine": "45.993605",
+            "longitudine": "11.220102"
+        },
+        {
+            "localita": "VIGOLO VATTARO",
+            "comune": "ALTOPIANO DELLA VIGOLANA",
+            "quota": 722,
+            "latitudine": "46.005147",
+            "longitudine": "11.199776"
+        },
+        {
+            "localita": "ALTOPIANO DELLA VIGOLANA",
+            "comune": "ALTOPIANO DELLA VIGOLANA",
+            "quota": 634,
+            "latitudine": "45.995752",
+            "longitudine": "11.223937"
+        },
+        {
+            "localita": "BECCO DI FILADONNA",
+            "comune": "ALTOPIANO DELLA VIGOLANA",
+            "quota": 2149,
+            "latitudine": "45.963556",
+            "longitudine": "11.193521"
+        },
+        {
+            "localita": "BOSENTINO",
+            "comune": "ALTOPIANO DELLA VIGOLANA",
+            "quota": 671,
+            "latitudine": "46.001369",
+            "longitudine": "11.223642"
+        },
+        {
+            "localita": "CENTA SAN NICOLO",
+            "comune": "ALTOPIANO DELLA VIGOLANA",
+            "quota": 828,
+            "latitudine": "45.96807",
+            "longitudine": "11.232127"
+        },
+        {
+            "localita": "RIFUGIO CASAROTA",
+            "comune": "ALTOPIANO DELLA VIGOLANA",
+            "quota": 1569,
+            "latitudine": "45.954432",
+            "longitudine": "11.195331"
+        },
+        {
+            "localita": "MALGA ROEN",
+            "comune": "AMBLAR-DON",
+            "quota": 1771,
+            "latitudine": "46.373035",
+            "longitudine": "11.196446"
+        },
+        {
+            "localita": "AMBLAR",
+            "comune": "AMBLAR-DON",
+            "quota": 978,
+            "latitudine": "46.395192",
+            "longitudine": "11.144186"
+        },
+        {
+            "localita": "DON",
+            "comune": "AMBLAR-DON",
+            "quota": 976,
+            "latitudine": "46.389764",
+            "longitudine": "11.136044"
+        },
+        {
+            "localita": "CONDINO",
+            "comune": "BORGO CHIESE",
+            "quota": 437,
+            "latitudine": "45.889678",
+            "longitudine": "10.59823"
+        },
+        {
+            "localita": "CIMEGO",
+            "comune": "BORGO CHIESE",
+            "quota": 540,
+            "latitudine": "45.912178",
+            "longitudine": "10.613196"
+        },
+        {
+            "localita": "BORGO CHIESE",
+            "comune": "BORGO CHIESE",
+            "quota": 1474,
+            "latitudine": "45.900065",
+            "longitudine": "10.570144"
+        },
+        {
+            "localita": "BRIONE",
+            "comune": "BORGO CHIESE",
+            "quota": 919,
+            "latitudine": "45.895331",
+            "longitudine": "10.589935"
+        },
+        {
+            "localita": "BORGO LARES",
+            "comune": "BORGO LARES",
+            "quota": 1190,
+            "latitudine": "46.005091",
+            "longitudine": "10.735981"
+        },
+        {
+            "localita": "BOLBENO",
+            "comune": "BORGO LARES",
+            "quota": 577,
+            "latitudine": "46.032062",
+            "longitudine": "10.736528"
+        },
+        {
+            "localita": "GIUDICARIE",
+            "comune": "BORGO LARES",
+            "quota": 798,
+            "latitudine": "46.019474",
+            "longitudine": "10.720318"
+        },
+        {
+            "localita": "ZUCLO",
+            "comune": "BORGO LARES",
+            "quota": 604,
+            "latitudine": "46.034682",
+            "longitudine": "10.751863"
+        },
+        {
+            "localita": "VILLA",
+            "comune": "CASTEL IVANO",
+            "quota": 391,
+            "latitudine": "46.057409",
+            "longitudine": "11.519998"
+        },
+        {
+            "localita": "SPERA",
+            "comune": "CASTEL IVANO",
+            "quota": 547,
+            "latitudine": "46.069543",
+            "longitudine": "11.509407"
+        },
+        {
+            "localita": "STRIGNO",
+            "comune": "CASTEL IVANO",
+            "quota": 461,
+            "latitudine": "46.066093",
+            "longitudine": "11.523125"
+        },
+        {
+            "localita": "CASTEL IVANO",
+            "comune": "CASTEL IVANO",
+            "quota": 449,
+            "latitudine": "46.064812",
+            "longitudine": "11.523904"
+        },
+        {
+            "localita": "CEMBRA",
+            "comune": "CEMBRA LISIGNAGO",
+            "quota": 672,
+            "latitudine": "46.176076",
+            "longitudine": "11.221032"
+        },
+        {
+            "localita": "LISIGNAGO",
+            "comune": "CEMBRA LISIGNAGO",
+            "quota": 585,
+            "latitudine": "46.160501",
+            "longitudine": "11.188009"
+        },
+        {
+            "localita": "FLAVON",
+            "comune": "CONTA'",
+            "quota": 591,
+            "latitudine": "46.29888",
+            "longitudine": "11.029744"
+        },
+        {
+            "localita": "CONTA'",
+            "comune": "CONTA'",
+            "quota": 568,
+            "latitudine": "46.294707",
+            "longitudine": "11.033153"
+        },
+        {
+            "localita": "CUNEVO",
+            "comune": "CONTA'",
+            "quota": 573,
+            "latitudine": "46.286534",
+            "longitudine": "11.034309"
+        },
+        {
+            "localita": "TERRES",
+            "comune": "CONTA'",
+            "quota": 576,
+            "latitudine": "46.30995",
+            "longitudine": "11.022697"
+        },
+        {
+            "localita": "CALAVINO",
+            "comune": "MADRUZZO",
+            "quota": 402,
+            "latitudine": "46.046472",
+            "longitudine": "10.983815"
+        },
+        {
+            "localita": "LASINO",
+            "comune": "MADRUZZO",
+            "quota": 454,
+            "latitudine": "46.023889",
+            "longitudine": "10.983409"
+        },
+        {
+            "localita": "MADRUZZO",
+            "comune": "MADRUZZO",
+            "quota": 440,
+            "latitudine": "46.035876",
+            "longitudine": "10.98387"
+        },
+        {
+            "localita": "PORTE DI RENDENA",
+            "comune": "PORTE DI RENDENA",
+            "quota": 1575,
+            "latitudine": "46.074532",
+            "longitudine": "10.660792"
+        },
+        {
+            "localita": "DARE",
+            "comune": "PORTE DI RENDENA",
+            "quota": 608,
+            "latitudine": "46.075381",
+            "longitudine": "10.718608"
+        },
+        {
+            "localita": "RIFUGIO GORCK",
+            "comune": "PORTE DI RENDENA",
+            "quota": 1179,
+            "latitudine": "46.079299",
+            "longitudine": "10.666781"
+        },
+        {
+            "localita": "VIGO RENDENA",
+            "comune": "PORTE DI RENDENA",
+            "quota": 621,
+            "latitudine": "46.078985",
+            "longitudine": "10.7192"
+        },
+        {
+            "localita": "VILLA RENDENA",
+            "comune": "PORTE DI RENDENA",
+            "quota": 614,
+            "latitudine": "46.06252",
+            "longitudine": "10.711286"
+        },
+        {
+            "localita": "VAL RENDENA",
+            "comune": "PORTE DI RENDENA",
+            "quota": 718,
+            "latitudine": "46.070222",
+            "longitudine": "10.72536"
+        },
+        {
+            "localita": "VALLE DI SAN VALENTINO",
+            "comune": "PORTE DI RENDENA",
+            "quota": 1339,
+            "latitudine": "46.080471",
+            "longitudine": "10.643091"
+        },
+        {
+            "localita": "VAL TRAVIGNOLO",
+            "comune": "PRIMIERO SAN MARTINO DI CASTROZZA",
+            "quota": 1579,
+            "latitudine": "46.295854",
+            "longitudine": "11.718446"
+        },
+        {
+            "localita": "VAL VENEGIOTTA",
+            "comune": "PRIMIERO SAN MARTINO DI CASTROZZA",
+            "quota": 1787,
+            "latitudine": "46.317173",
+            "longitudine": "11.80065"
+        },
+        {
+            "localita": "Primiero e Vanoi",
+            "comune": "PRIMIERO SAN MARTINO DI CASTROZZA",
+            "quota": 1470,
+            "latitudine": "46.261596",
+            "longitudine": "11.796253"
+        },
+        {
+            "localita": "RIFUGIO PRADIDALI",
+            "comune": "PRIMIERO SAN MARTINO DI CASTROZZA",
+            "quota": 2259,
+            "latitudine": "46.244154",
+            "longitudine": "11.855021"
+        },
+        {
+            "localita": "RIFUGIO PEDROTTI ALLA ROSETTA",
+            "comune": "PRIMIERO SAN MARTINO DI CASTROZZA",
+            "quota": 2572,
+            "latitudine": "46.267448",
+            "longitudine": "11.839142"
+        },
+        {
+            "localita": "RIFUGIO VELO DELLA MADONNA",
+            "comune": "PRIMIERO SAN MARTINO DI CASTROZZA",
+            "quota": 2328,
+            "latitudine": "46.231348",
+            "longitudine": "11.842674"
+        },
+        {
+            "localita": "RIFUGIO TREVISO",
+            "comune": "PRIMIERO SAN MARTINO DI CASTROZZA",
+            "quota": 1606,
+            "latitudine": "46.236522",
+            "longitudine": "11.902897"
+        },
+        {
+            "localita": "TONADICO",
+            "comune": "PRIMIERO SAN MARTINO DI CASTROZZA",
+            "quota": 750,
+            "latitudine": "46.181794",
+            "longitudine": "11.840011"
+        },
+        {
+            "localita": "TRANSACQUA",
+            "comune": "PRIMIERO SAN MARTINO DI CASTROZZA",
+            "quota": 763,
+            "latitudine": "46.173648",
+            "longitudine": "11.838185"
+        },
+        {
+            "localita": "VAL CANALI",
+            "comune": "PRIMIERO SAN MARTINO DI CASTROZZA",
+            "quota": 1151,
+            "latitudine": "46.20681",
+            "longitudine": "11.87538"
+        },
+        {
+            "localita": "VAL CISMON",
+            "comune": "PRIMIERO SAN MARTINO DI CASTROZZA",
+            "quota": 1167,
+            "latitudine": "46.230697",
+            "longitudine": "11.813518"
+        },
+        {
+            "localita": "SAN MARTINO DI CASTROZZA",
+            "comune": "PRIMIERO SAN MARTINO DI CASTROZZA",
+            "quota": 1470,
+            "latitudine": "46.261596",
+            "longitudine": "11.796253"
+        },
+        {
+            "localita": "SIROR",
+            "comune": "PRIMIERO SAN MARTINO DI CASTROZZA",
+            "quota": 767,
+            "latitudine": "46.188291",
+            "longitudine": "11.831746"
+        },
+        {
+            "localita": "FIERA DI PRIMIERO",
+            "comune": "PRIMIERO SAN MARTINO DI CASTROZZA",
+            "quota": 715,
+            "latitudine": "46.175556",
+            "longitudine": "11.828155"
+        },
+        {
+            "localita": "FORESTA DI PANEVEGGIO",
+            "comune": "PRIMIERO SAN MARTINO DI CASTROZZA",
+            "quota": 1938,
+            "latitudine": "46.294496",
+            "longitudine": "11.739966"
+        },
+        {
+            "localita": "CIMON DELLA PALA",
+            "comune": "PRIMIERO SAN MARTINO DI CASTROZZA",
+            "quota": 3180,
+            "latitudine": "46.285247",
+            "longitudine": "11.821657"
+        },
+        {
+            "localita": "CIMA DI FRADUSTA",
+            "comune": "PRIMIERO SAN MARTINO DI CASTROZZA",
+            "quota": 2939,
+            "latitudine": "46.251064",
+            "longitudine": "11.873403"
+        },
+        {
+            "localita": "ALTOPIANO DELLE PALE DI SAN MARTINO",
+            "comune": "PRIMIERO SAN MARTINO DI CASTROZZA",
+            "quota": 2668,
+            "latitudine": "46.271274",
+            "longitudine": "11.868402"
+        },
+        {
+            "localita": "PIZ DI SAGRON",
+            "comune": "PRIMIERO SAN MARTINO DI CASTROZZA",
+            "quota": 2484,
+            "latitudine": "46.175826",
+            "longitudine": "11.928334"
+        },
+        {
+            "localita": "PASSO ROLLE",
+            "comune": "PRIMIERO SAN MARTINO DI CASTROZZA",
+            "quota": 1985,
+            "latitudine": "46.296856",
+            "longitudine": "11.788176"
+        },
+        {
+            "localita": "PRIMIERO - SAN MARTINO",
+            "comune": "PRIMIERO SAN MARTINO DI CASTROZZA",
+            "quota": 1474,
+            "latitudine": "46.262964",
+            "longitudine": "11.799252"
+        },
+        {
+            "localita": "PASSO CEREDA",
+            "comune": "PRIMIERO SAN MARTINO DI CASTROZZA",
+            "quota": 1346,
+            "latitudine": "46.193598",
+            "longitudine": "11.910756"
+        },
+        {
+            "localita": "BONDO",
+            "comune": "SELLA GIUDICARIE",
+            "quota": 822,
+            "latitudine": "45.998582",
+            "longitudine": "10.691953"
+        },
+        {
+            "localita": "BREGUZZO",
+            "comune": "SELLA GIUDICARIE",
+            "quota": 801,
+            "latitudine": "46.008046",
+            "longitudine": "10.699371"
+        },
+        {
+            "localita": "LARDARO",
+            "comune": "SELLA GIUDICARIE",
+            "quota": 734,
+            "latitudine": "45.971065",
+            "longitudine": "10.661786"
+        },
+        {
+            "localita": "SELLA GIUDICARIE",
+            "comune": "SELLA GIUDICARIE",
+            "quota": 874,
+            "latitudine": "46.004787",
+            "longitudine": "10.692005"
+        },
+        {
+            "localita": "RONCONE",
+            "comune": "SELLA GIUDICARIE",
+            "quota": 831,
+            "latitudine": "45.985045",
+            "longitudine": "10.669321"
+        },
+        {
+            "localita": "VAL DI BONDONE",
+            "comune": "SELLA GIUDICARIE",
+            "quota": 1279,
+            "latitudine": "45.990138",
+            "longitudine": "10.635727"
+        },
+        {
+            "localita": "VAL DI BREGUZZO",
+            "comune": "SELLA GIUDICARIE",
+            "quota": 1264,
+            "latitudine": "46.029661",
+            "longitudine": "10.636555"
+        },
+        {
+            "localita": "RIFUGIO TRIVENA",
+            "comune": "SELLA GIUDICARIE",
+            "quota": 1654,
+            "latitudine": "46.050147",
+            "longitudine": "10.612423"
+        },
+        {
+            "localita": "RIFUGIO TUCKETT E SELLA",
+            "comune": "TRE VILLE",
+            "quota": 2261,
+            "latitudine": "46.19196",
+            "longitudine": "10.882081"
+        },
+        {
+            "localita": "RIFUGIO STOPPANI",
+            "comune": "TRE VILLE",
+            "quota": 2434,
+            "latitudine": "46.214936",
+            "longitudine": "10.90068"
+        },
+        {
+            "localita": "RIFUGIO VALLESINELLA",
+            "comune": "TRE VILLE",
+            "quota": 1509,
+            "latitudine": "46.206764",
+            "longitudine": "10.851569"
+        },
+        {
+            "localita": "RIFUGIO GRAFFER",
+            "comune": "TRE VILLE",
+            "quota": 2261,
+            "latitudine": "46.219604",
+            "longitudine": "10.889211"
+        },
+        {
+            "localita": "VAL BRENTA",
+            "comune": "TRE VILLE",
+            "quota": 1293,
+            "latitudine": "46.196288",
+            "longitudine": "10.839075"
+        },
+        {
+            "localita": "TRE VILLE",
+            "comune": "TRE VILLE",
+            "quota": 984,
+            "latitudine": "46.062702",
+            "longitudine": "10.783208"
+        },
+        {
+            "localita": "MONTAGNE",
+            "comune": "TRE VILLE",
+            "quota": 955,
+            "latitudine": "46.059072",
+            "longitudine": "10.7517"
+        },
+        {
+            "localita": "GROSTE'",
+            "comune": "TRE VILLE",
+            "quota": 2530,
+            "latitudine": "46.209492",
+            "longitudine": "10.899925"
+        },
+        {
+            "localita": "CIMA TOSA",
+            "comune": "TRE VILLE",
+            "quota": 3130,
+            "latitudine": "46.155967",
+            "longitudine": "10.870411"
+        },
+        {
+            "localita": "CAMPO CARLO MAGNO",
+            "comune": "TRE VILLE",
+            "quota": 1677,
+            "latitudine": "46.243145",
+            "longitudine": "10.840631"
+        },
+        {
+            "localita": "PREORE",
+            "comune": "TRE VILLE",
+            "quota": 524,
+            "latitudine": "46.046298",
+            "longitudine": "10.758465"
+        },
+        {
+            "localita": "RIFUGIO CASINEI",
+            "comune": "TRE VILLE",
+            "quota": 1829,
+            "latitudine": "46.199721",
+            "longitudine": "10.857893"
+        },
+        {
+            "localita": "RAGOLI",
+            "comune": "TRE VILLE",
+            "quota": 560,
+            "latitudine": "46.053133",
+            "longitudine": "10.77644"
+        },
+        {
+            "localita": "RIFUGIO ALIMONTA",
+            "comune": "TRE VILLE",
+            "quota": 2585,
+            "latitudine": "46.173828",
+            "longitudine": "10.891866"
+        },
+        {
+            "localita": "RIFUGIO BRENTEI",
+            "comune": "TRE VILLE",
+            "quota": 2169,
+            "latitudine": "46.175213",
+            "longitudine": "10.875966"
+        },
+        {
+            "localita": "PADERGNONE",
+            "comune": "VALLELAGHI",
+            "quota": 275,
+            "latitudine": "46.061655",
+            "longitudine": "10.987935"
+        },
+        {
+            "localita": "CIMA PAGANELLA",
+            "comune": "VALLELAGHI",
+            "quota": 2103,
+            "latitudine": "46.139422",
+            "longitudine": "11.040786"
+        },
+        {
+            "localita": "Valle dei laghi",
+            "comune": "VALLELAGHI",
+            "quota": 252,
+            "latitudine": "46.068814",
+            "longitudine": "10.982495"
+        },
+        {
+            "localita": "VALLELAGHI",
+            "comune": "VALLELAGHI",
+            "quota": 975,
+            "latitudine": "46.100676",
+            "longitudine": "11.009286"
+        },
+        {
+            "localita": "VEZZANO",
+            "comune": "VALLELAGHI",
+            "quota": 382,
+            "latitudine": "46.078523",
+            "longitudine": "10.999918"
+        },
+        {
+            "localita": "SANTA MASSENZA",
+            "comune": "VALLELAGHI",
+            "quota": 252,
+            "latitudine": "46.068814",
+            "longitudine": "10.982495"
+        },
+        {
+            "localita": "TERLAGO",
+            "comune": "VALLELAGHI",
+            "quota": 457,
+            "latitudine": "46.097574",
+            "longitudine": "11.045047"
+        },
+        {
+            "localita": "TASSULLO",
+            "comune": "VILLE D'ANAUNIA",
+            "quota": 537,
+            "latitudine": "46.33617",
+            "longitudine": "11.050955"
+        },
+        {
+            "localita": "TUENNO",
+            "comune": "VILLE D'ANAUNIA",
+            "quota": 629,
+            "latitudine": "46.326547",
+            "longitudine": "11.022765"
+        },
+        {
+            "localita": "VILLE D'ANAUNIA",
+            "comune": "VILLE D'ANAUNIA",
+            "quota": 591,
+            "latitudine": "46.326728",
+            "longitudine": "11.046709"
+        },
+        {
+            "localita": "MONTE PELLER",
+            "comune": "VILLE D'ANAUNIA",
+            "quota": 2319,
+            "latitudine": "46.314706",
+            "longitudine": "10.943939"
+        },
+        {
+            "localita": "VALLE DI TOVEL",
+            "comune": "VILLE D'ANAUNIA",
+            "quota": 759,
+            "latitudine": "46.304927",
+            "longitudine": "10.984491"
+        },
+        {
+            "localita": "NANNO",
+            "comune": "VILLE D'ANAUNIA",
+            "quota": 550,
+            "latitudine": "46.314672",
+            "longitudine": "11.048561"
+        }
+    ]
+}

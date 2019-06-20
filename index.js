@@ -1,10 +1,14 @@
 const Telegraf = require('telegraf')
 const config = require('./lib/config/config.json');
-const Markup = require('telegraf/markup');
 const LocalSession = require('telegraf-session-local');
 const helpera = require('./lib/helper');
+const keyboard = require('./lib/config/keyboards');
 
-//https://azureforeducation.microsoft.com/devtools
+/**
+ * Regex
+ */
+const RE_TODAY = new RegExp(/☀️ Meteo/i);
+
 // init bot
 const bot = new Telegraf(config["TOKEN"]);
 
@@ -18,45 +22,54 @@ bot.use((ctx, next) => {
       console.log('Response time %sms', ms);
     })
   });
-  /*
-bot.on('text', (ctx) => {
-  ctx.session.counter = ctx.session.counter || 0;
-  ctx.session.counter++;
-  ctx.replyWithMarkdown(`Counter updated, new value: \`${ctx.session.counter}\``);
-  ctx.reply('Custom buttons keyboard', Markup
-  .keyboard([
-    ['🔍 Search', '😎 Popular'], // Row1 with 2 buttons
-    ['☸ Setting', '📞 Feedback'], // Row2 with 2 buttons
-    ['📢 Ads', '⭐️ Rate us', '👥 Share'] // Row3 with 3 buttons
-  ])
-  .oneTime()
-  .resize()
-  .extra()
-)
-});
-*/
 
 
-bot.hears('☀️ Previsioni', (ctx) => {
+/**
+ * Meteo command
+ */
+bot.hears(RE_TODAY, (ctx) => {
   // set sessions
   ctx.session.lastcommand = 'previsioni';
-  ctx.session.counter = ctx.session.counter || 0;
-  ctx.session.counter++;
+  ctx.session.lastquery = 'previsioni';
 
-  helpera.BuildWeatherMessage('arco').then( (msg) => {
-    ctx.reply('Previsioni:' + msg);
-  });
-   
+  helpera.BuildWeatherMessage('Arco').then( (msg) => {
+    ctx.replyWithMarkdown(msg.forecast, msg.keyboard);
+  }).catch( (e) => {
+    console.log('error: ' + e );
+  }); 
 });
 
-bot.command('☀️ Previsioni Meteo', (ctx) => {
-  ctx.session.lastcommand = 'previsionimeteo';
 
-  ctx.reply('previsdioni');
+/**
+ * Meteo command
+ */
+bot.hears(RE_TODAY, (ctx) => {
+  // set sessions
+  ctx.session.lastcommand = 'previsioni';
+  ctx.session.lastquery = 'previsioni';
+
+  helpera.BuildWeatherMessage('Arco').then( (msg) => {
+    ctx.replyWithMarkdown(msg.forecast, msg.keyboard);
+  }).catch( (e) => {
+    console.log('error: ' + e );
+  }); 
 });
 
-  bot.catch((err) => {
-    console.log('Ooops', err)
-  })
+bot.on('callback_query', (ctx) => {
+  console.log(ctx.callbackQuery.data)
+  ctx.editMessageText('🎉 Awesome! 🎉')
+})
 
-  bot.launch()
+
+
+bot.on('text', (ctx) => {
+  ctx.replyWithMarkdown('ciao', keyboard.defKeyboard) 
+})
+
+
+
+bot.catch((err) => {
+  console.log('Ooops', err)
+})
+
+bot.launch();
