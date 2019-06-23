@@ -1,20 +1,26 @@
-const Telegraf = require('telegraf')
-const config = require('./lib/config/config.json');
-const LocalSession = require('telegraf-session-local');
-const helpera = require('./lib/helper');
-const keyboard = require('./lib/config/keyboards');
+const Telegraf      = require('telegraf')
+const config        = require('./lib/config/config.json');
+const LocalSession  = require('telegraf-session-local');
+const helpera       = require('./lib/weather');
+const executors     = require('./lib/executors');
+const commands      = require('./lib/config/commands.js');
+const strings       = require('./lib/config/strings');
 
 /**
  * Regex
  */
 const RE_TODAY = new RegExp(/☀️ Meteo/i);
 
-// init bot
+// Init bot
 const bot = new Telegraf(config["TOKEN"]);
+executors.fillLocs();
 
-// set sessions middleware
+// Middleware session
 bot.use((new LocalSession({ database: 'session_db.json' })).middleware());
 
+/**
+ * Apply context
+ */
 bot.use((ctx, next) => {
     const start = new Date();
     return next(ctx).then(() => {
@@ -23,32 +29,29 @@ bot.use((ctx, next) => {
     })
   });
 
-
 /**
- * Meteo command
+ * Init command
  */
-bot.hears(RE_TODAY, (ctx) => {
-  // set sessions
-  ctx.session.lastcommand = 'previsioni';
-  ctx.session.lastquery = 'previsioni';
+bot.start((ctx) => {
 
-  helpera.BuildWeatherMessage('Arco').then( (msg) => {
-    ctx.replyWithMarkdown(msg.forecast, msg.keyboard);
-  }).catch( (e) => {
-    console.log('error: ' + e );
-  }); 
+  // set sessions
+  ctx.session.lastcommand     = commands.POSITION;
+  ctx.session.lastlocation    = '';
+  ctx.session.defaultlocation = '';
+
+  ctx.replyWithMarkdown(strings.WELCOME(ctx.chat.first_name));
 });
 
 
 /**
- * Meteo command
+ * Weather command
  */
 bot.hears(RE_TODAY, (ctx) => {
-  // set sessions
-  ctx.session.lastcommand = 'previsioni';
-  ctx.session.lastquery = 'previsioni';
 
-  helpera.BuildWeatherMessage('Arco').then( (msg) => {
+  // update sessions
+  ctx.session.lastcommand = commands.FORECAST;
+
+  helpera.BuildWeatherMessage(ctx.session.defaultlocation).then( (msg) => {
     ctx.replyWithMarkdown(msg.forecast, msg.keyboard);
   }).catch( (e) => {
     console.log('error: ' + e );
@@ -56,14 +59,31 @@ bot.hears(RE_TODAY, (ctx) => {
 });
 
 bot.on('callback_query', (ctx) => {
-  console.log(ctx.callbackQuery.data)
-  ctx.editMessageText('🎉 Awesome! 🎉')
+
+  helpera.BuildFullWeatherMessage(ctx.session.defaultlocation).then( (msg) => {
+    ctx.editMessageText(msg.forecast, {reply_markup: msg.keyboard, parse_mode:'Markdown'});
+  }).catch( (e) => {
+    console.log('error: ' + e );
+  }); 
 })
 
 
-
 bot.on('text', (ctx) => {
-  ctx.replyWithMarkdown('ciao', keyboard.defKeyboard) 
+  if(ctx.session.lastcommand === commands.POSITION) {
+
+    ctx.session.lastcommand = commands.DEFAULT;
+
+   executors.evalPosition(ctx.message.text).then(  ()  => {
+      ctx.session.defaultlocation = ctx.message.text.toLowerCase();
+      ctx.message.lastlocation = ctx.message.text.toLowerCase();
+      ctx.replyWithMarkdown('aggiornato');
+    }).catch( () => {
+      ctx.replyWithMarkdown('err localita sbagliata riscrivila');
+    });
+  }
+  else {
+    ctx.replyWithMarkdown('comando non rilevato');
+  }
 })
 
 
