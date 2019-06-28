@@ -6,6 +6,11 @@ const executors     = require('./lib/executors');
 const commands      = require('./lib/config/commands.js');
 const strings       = require('./lib/config/strings');
 
+// TODO: check to remove
+const Extra         = require('telegraf/extra');
+const Markup        = require('telegraf/markup');
+
+
 /**
  * Regex
  */
@@ -51,21 +56,36 @@ bot.hears(RE_TODAY, (ctx) => {
   // update sessions
   ctx.session.lastcommand = commands.FORECAST;
 
-  helpera.BuildWeatherMessage(ctx.session.defaultlocation).then( (msg) => {
+  helpera.BuildWeatherMessage(ctx.session.defaultlocation, true).then( (msg) => {
     ctx.replyWithMarkdown(msg.forecast, msg.keyboard);
+  }).catch( (e) => {
+    ctx.replyWithMarkdown
+  }); 
+});
+
+/**
+ * CALLBACK QUERYIES
+ */
+
+bot.action('LESS_INFO', (ctx) => {
+  helpera.BuildWeatherMessage(ctx.session.defaultlocation).then( (msg) => {
+    let kb = msg.keyboard;
+    kb.parse_mode = 'Markdown';
+    ctx.editMessageText(msg.forecast, kb);
   }).catch( (e) => {
     console.log('error: ' + e );
   }); 
 });
 
-bot.on('callback_query', (ctx) => {
-
+bot.action('MORE_INFO', (ctx) => {
   helpera.BuildFullWeatherMessage(ctx.session.defaultlocation).then( (msg) => {
-    ctx.editMessageText(msg.forecast, {reply_markup: msg.keyboard, parse_mode:'Markdown'});
+    let kb = msg.keyboard;
+    kb.parse_mode = 'Markdown';
+    ctx.editMessageText(msg.forecast, kb);
   }).catch( (e) => {
     console.log('error: ' + e );
   }); 
-})
+});
 
 
 bot.on('text', (ctx) => {
