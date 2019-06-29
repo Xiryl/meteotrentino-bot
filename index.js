@@ -15,6 +15,9 @@ const Markup        = require('telegraf/markup');
  * Regex
  */
 const RE_TODAY = new RegExp(/☀️ Meteo/i);
+const RE_7DAYS = new RegExp(/\d/i);
+const RE_MORE_INFO = new RegExp(/MORE_INFO \d{1,2}/i);
+
 
 // Init bot
 const bot = new Telegraf(config["TOKEN"]);
@@ -52,23 +55,21 @@ bot.start((ctx) => {
  * Weather command
  */
 bot.hears(RE_TODAY, (ctx) => {
-
   // update sessions
   ctx.session.lastcommand = commands.FORECAST;
 
-  helpera.BuildWeatherMessage(ctx.session.defaultlocation, true).then( (msg) => {
+  helpera.BuildWeatherMessage(ctx.session.defaultlocation).then( (msg) => {
     ctx.replyWithMarkdown(msg.forecast, msg.keyboard);
   }).catch( (e) => {
     ctx.replyWithMarkdown
   }); 
 });
 
-/**
- * CALLBACK QUERYIES
- */
 
-bot.action('LESS_INFO', (ctx) => {
-  helpera.BuildWeatherMessage(ctx.session.defaultlocation).then( (msg) => {
+
+bot.action(RE_MORE_INFO, (ctx) => {
+  console.log('ci sono:' + ctx.update.callback_query.data.split(' ')[1]);
+  helpera.BuildFullWeatherMessage(ctx.session.defaultlocation, ctx.update.callback_query.data.split(' ')[1]).then( (msg) => {
     let kb = msg.keyboard;
     kb.parse_mode = 'Markdown';
     ctx.editMessageText(msg.forecast, kb);
@@ -77,8 +78,18 @@ bot.action('LESS_INFO', (ctx) => {
   }); 
 });
 
-bot.action('MORE_INFO', (ctx) => {
-  helpera.BuildFullWeatherMessage(ctx.session.defaultlocation).then( (msg) => {
+bot.action(RE_7DAYS, (ctx) => {
+  console.log('qua');
+  helpera.BuildWeatherMessage(ctx.session.defaultlocation, ctx.update.callback_query.data).then( (msg) => {
+    ctx.replyWithMarkdown(msg.forecast, msg.keyboard);
+  }).catch( (e) => {
+    ctx.replyWithMarkdown
+  }); 
+}); 
+
+bot.action('LESS_INFO', (ctx) => {
+  console.log('qui');
+  helpera.BuildWeatherMessage(ctx.session.defaultlocation).then( (msg) => {
     let kb = msg.keyboard;
     kb.parse_mode = 'Markdown';
     ctx.editMessageText(msg.forecast, kb);
