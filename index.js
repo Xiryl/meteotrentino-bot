@@ -29,22 +29,6 @@ const RE_DIGBACINI  = new RegExp(/^🚏 Dighe e Bacini/i);
 // init bot
 const bot = new Telegraf(config["TOKEN"]);
 
-// read all locs
-executors.fillLocs();
-
-// middleware session
-bot.use((new LocalSession({ database: 'session_db.json' })).middleware());
-
-/**
- * Apply context
- */
-bot.use((ctx, next) => {
-    const start = new Date();
-    return next(ctx).then(() => {
-      const ms = new Date() - start;
-      console.log('Response time %sms', ms);
-    })
-  });
 
 /**
  * ============================================================================
