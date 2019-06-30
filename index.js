@@ -10,9 +10,12 @@ const radars          = require('./lib/radars');
 const Extra           = require('telegraf/extra')
 const keyboard        = require('./lib/config/keyboards');
 const weatherStation  = require('./lib/weatherStations');
+const baciniStation   = require('./lib/baciniStations');
 
 /**
- * REGEX
+ * ============================================================================
+ *                              REGEX
+ * ============================================================================
  */
 const RE_TODAY      = new RegExp(/☀️ Meteo/i);
 const RE_7DAYS      = new RegExp(/\d/i);
@@ -21,14 +24,36 @@ const RE_LESS_INFO  = new RegExp(/LESS_INFO \d{1,2}/i);
 const RE_RADAR      = new RegExp(/⚡️ Radar/i);
 const RE_ALERTS     = new RegExp(/⚠️ Allerte/i);
 const RE_SENSORI    = new RegExp(/🗾 Sensori/i);
-const RE_STAZIONI   = new RegExp(/🌡 Stazioni Meteo/i);
+const RE_STAZIONI   = new RegExp(/🌡 Stazioni Metereologiche/i);
 const RE_STAZIONECB = new RegExp(/^(FULL_DATA_STATION)/i);
-const RE_DIGBACINI  = new RegExp(/^🚏 Dighe e Bacini/i);
+const RE_DIGBACINI  = new RegExp(/🚏 Sensori Dighe e Bacini/i);
+const RE_OPZIONI    = new RegExp(/⚙️ Opzioni/i);
+const RE_HELP       = new RegExp(/❓ Aiuto/i);
 
 
-// init bot
+/**
+ * ============================================================================
+ *                              INIT BOT
+ * ============================================================================
+ */
 const bot = new Telegraf(config["TOKEN"]);
 
+// read all locs
+executors.fillLocs();
+
+// middleware session
+bot.use((new LocalSession({ database: 'session_db.json' })).middleware());
+
+/**
+ * Apply context
+ */
+bot.use((ctx, next) => {
+    const start = new Date();
+    return next(ctx).then(() => {
+      const ms = new Date() - start;
+      console.log('Response time %sms', ms);
+    })
+  });
 
 /**
  * ============================================================================
@@ -71,10 +96,27 @@ bot.hears(RE_TODAY, (ctx) => {
 
 /**
  * ============================================================================
+ *                              HELP COMMAND
+ * ============================================================================
+ */
+bot.hears(RE_HELP, (ctx) => {
+  ctx.replyWithMarkdown(strings.HELP);
+});
+
+/**
+ * ============================================================================
+ *                           OPTIONS COMMAND
+ * ============================================================================
+ */
+bot.hears(RE_OPZIONI, (ctx) => {
+  ctx.replyWithMarkdown(strings.OPTIONS);
+});
+
+/**
+ * ============================================================================
  *                      WEATHER [MORE INFO] CALLBACK
  * ============================================================================
  */
-
 bot.action(RE_MORE_INFO, (ctx) => {
   ctx.session.counterWeather++;
   ctx.session.interactions++;
@@ -132,7 +174,6 @@ bot.action(RE_7DAYS, (ctx) => {
   }); 
 });
 
-
 /**
  * ============================================================================
  *                              RADAR COMMAND
@@ -175,7 +216,7 @@ bot.hears(RE_ALERTS, (ctx) => {
 bot.hears(RE_SENSORI, (ctx) => {
   ctx.session.interactions++;
   ctx.session.counterSensor++;
-  ctx.replyWithMarkdown('ℹ️ Di quali sensori vuoi avere info? \n\n_Al momento è disponibile una porzione limitata di sensori accessibili_.\n_Cerchi un sensore specifico? Contattami! @Xiryl_', keyboard.sensorTypesKeyboard);
+  ctx.replyWithMarkdown('ℹ️ Scegli il tipo di dato che desideri visualizzare.\n\n_Al momento è disponibile una porzione limitata di sensori accessibili. Sono presenti i sensori relativi alle stazioni metereologiche e quelli relativi ai bacini_.\n\n_Cerchi un sensore specifico? Contattami! @Xiryl_', keyboard.sensorTypesKeyboard);
 });
 
 /**
@@ -186,7 +227,7 @@ bot.hears(RE_SENSORI, (ctx) => {
 bot.hears(RE_STAZIONI, (ctx) => {
   ctx.session.interactions++;
   ctx.session.lastcommand = commands.STATION;
-  ctx.replyWithMarkdown('✅Ok, Seleziona una stazione per ricevere gli ultimi dati!', weatherStation.getStationNamesAsKeyboard());
+  ctx.replyWithMarkdown('✅ Ok, Seleziona una stazione metereologica per visualizzare i dati!\n_Disponibili: temperatura e precipitazioni_.', weatherStation.getStationNamesAsKeyboard());
 });
 
 /**
@@ -198,7 +239,7 @@ bot.hears(RE_DIGBACINI, (ctx) => {
   ctx.session.interactions++;
   ctx.session.lastcommand = commands.DIGBAC;
   ctx.session.counterSensor++;
-  ctx.replyWithMarkdown('✋Attualmente non attivo. Presto saranno disponibili!', keyboard.defKeyboard);
+  ctx.replyWithMarkdown('✅ Ok, Seleziona un bacino per visualizzare i dati dei sensori disponibili!', keyboard.availableBaciniKeyboard);
 });
 
 /**
@@ -208,9 +249,20 @@ bot.hears(RE_DIGBACINI, (ctx) => {
  */
 bot.command('gdpr', (ctx) => {
   ctx.session.interactions++;
-  ctx.replyWithMarkdown(`Ecco i tuoi dati che immagazinniamo per far funzionare correttamente il bot:\n\n\`${JSON.stringify(ctx.session, null, 2)}\``);
+  ctx.replyWithMarkdown(`Ecco i tuoi dati che sono mantenuti per far funzionare correttamente il bot:\n\n\`${JSON.stringify(ctx.session, null, 2)}\``);
 });
 
+
+/**
+ * ============================================================================
+ *                     cambialocalita COMMAND
+ * ============================================================================
+ */
+bot.command('cambialocalita', (ctx) => {
+  ctx.session.interactions++;
+  ctx.session.lastcommand         = commands.POSITION;
+  ctx.replyWithMarkdown(`✅ Ok, inviami la nuova località`);
+});
 
 /**
  * ============================================================================
@@ -221,18 +273,35 @@ bot.on('text', (ctx) => {
   ctx.session.interactions++;
   if(ctx.message.text.includes('Annulla')) {
     ctx.session.lastcommand = commands.DEFAULT;
-    ctx.replyWithMarkdown('✅Ok, annullato.', keyboard.defKeyboard);
+    ctx.replyWithMarkdown('✅ Ok, annullato.', keyboard.defKeyboard);
   }
   else if(ctx.session.lastcommand === commands.POSITION) {
+  
     ctx.session.lastcommand = commands.DEFAULT;
-    executors.evalPosition(ctx.message.text).then(  ()  => {
+    executors.evalPosition(ctx.message.text).then( ()  => {
       ctx.session.defaultlocation = ctx.message.text.toLowerCase();
       ctx.message.lastlocation = ctx.message.text.toLowerCase();
-      ctx.replyWithMarkdown('OK, aggiornato');
+      ctx.replyWithMarkdown(`✅ Ok, ${ctx.message.text} sarà la tua località di default.\n\n_Puoi cambiarla dal menu 'opzioni_'.`, keyboard.defKeyboard);
     }).catch( () => {
       ctx.session.lastcommand = commands.POSITION;
-      ctx.replyWithMarkdown('Località non riconosciuta.');
+      ctx.replyWithMarkdown('Località non riconosciuta. Inseriscine una nuova.');
     });
+  }
+  else if(ctx.session.lastcommand === commands.DIGBAC) {
+    ctx.session.lastcommand = commands.DIGSENS
+    ctx.session.bacinoName = ctx.message.text;
+    ctx.replyWithMarkdown('✅ Ok, di quale stazione vorresti ricevere i dati dei sensori?', baciniStation.getStationAndSensorsNamesAsKeyboard(ctx.message.text));
+  }
+  else if(ctx.session.lastcommand === commands.DIGSENS) {
+    baciniStation.getSensorsData(ctx.session.bacinoName, ctx.message.text, ctx).then( (path) => {
+      ctx.replyWithMarkdown(path);
+     // ctx.replyWithDocument({source:path});
+    })
+    .then( (path) => {
+      ctx.replyWithMarkdown(path);
+     // ctx.replyWithDocument({source:path});
+    });
+   
   }
   else if (ctx.session.lastcommand === commands.STATION) {
     ctx.session.lastWeatherStation = ctx.message.text.split('-')[0];
@@ -260,7 +329,6 @@ bot.catch((err) => {
  * ============================================================================
  */
 bot.launch();
-
 
 /**
  * TODO: logger
