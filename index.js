@@ -249,7 +249,7 @@ bot.hears(RE_DIGBACINI, (ctx) => {
  */
 bot.command('gdpr', (ctx) => {
   ctx.session.interactions++;
-  ctx.replyWithMarkdown(`Ecco i tuoi dati che sono mantenuti per far funzionare correttamente il bot:\n\n\`${JSON.stringify(ctx.session, null, 2)}\``);
+  ctx.replyWithMarkdown(`🔐*Dati*\n\nEcco i tuoi dati che sono mantenuti per far funzionare correttamente il bot:\n\n\`${JSON.stringify(ctx.session, null, 2)}\``);
 });
 
 
