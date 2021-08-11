@@ -1,0 +1,13 @@
+version: "3"
+
+services:
+  app:
+    build: .
+    volumes:
+      - ./db:/opt/app/db
+      - ./log:/opt/app/log
+    entrypoint:
+      - npm
+      - run
+      - start
+    restart: 'unless-stopped'

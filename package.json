@@ -1,0 +1,35 @@
+{
+  "name": "meteotrentino-bot",
+  "version": "1.0.0",
+  "description": "This project is a Node.js telegram bot [@meteotrentinobot](https://t.me/meteotrentinobot).",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xiryl/meteotrentino-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xiryl/meteotrentino-bot/issues"
+  },
+  "homepage": "https://github.com/Xiryl/meteotrentino-bot#readme",
+  "dependencies": {
+    "csv-parser": "^2.3.2",
+    "follow-redirects": "^1.10.0",
+    "jsdom": "^16.2.1",
+    "node-emoji": "^1.10.0",
+    "phin": "^3.4.1",
+    "telegraf": "^3.36.0",
+    "telegraf-session-local": "^1.0.2",
+    "winston": "^3.2.1",
+    "winston-loggly-bulk": "^3.1.0",
+    "xml-js": "^1.6.11"
+  }
+}
