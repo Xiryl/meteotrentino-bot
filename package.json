@@ -22,7 +22,7 @@
   "homepage": "https://github.com/Xiryl/meteotrentino-bot#readme",
   "dependencies": {
     "csv-parser": "^2.3.2",
-    "follow-redirects": "^1.10.0",
+    "follow-redirects": "^1.14.7",
     "jsdom": "^16.2.1",
     "node-emoji": "^1.10.0",
     "phin": "^3.4.1",
