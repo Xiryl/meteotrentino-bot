@@ -13,6 +13,14 @@ const weatherStation  = require('./lib/weatherStations');
 const baciniStation   = require('./lib/baciniStations');
 const logger          = require('./lib/logger');
 
+const isMaintenanceMode = () => {
+  const flag = config["MAINTENANCE_MODE"];
+  if (typeof flag === 'string') {
+    return flag.toLowerCase() === 'true';
+  }
+  return Boolean(flag);
+};
+
 /**
  * ============================================================================
  *                              REGEX
@@ -44,6 +52,22 @@ executors.fillLocs();
 
 // middleware session
 bot.use((new LocalSession({ database: './db/session_db.json' })).middleware());
+
+/**
+ * Maintenance mode handler
+ */
+bot.use((ctx, next) => {
+  if (!isMaintenanceMode()) {
+    return next();
+  }
+
+  if (ctx.updateType === 'callback_query') {
+    ctx.answerCbQuery();
+  }
+
+  logger.info(`Maintenance mode, user: ${JSON.stringify(ctx.chat)}`);
+  return ctx.replyWithMarkdown(strings.MAINTENANCE);
+});
 
 /**
  * Apply context
