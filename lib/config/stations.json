@@ -1,0 +1,618 @@
+[
+ {
+  "id": "734d0b34-69e8-cc31-554b-2064011c9d3a",
+  "name": "Ala (Maso Le Pozze)",
+  "lat": 45.786137,
+  "lon": 11.023828,
+  "elevation": 170
+ },
+ {
+  "id": "30aff397-2845-a134-9e6c-3744733d679b",
+  "name": "Ala (Ronchi)",
+  "lat": 45.73919,
+  "lon": 11.06545,
+  "elevation": 692
+ },
+ {
+  "id": "211133de-839f-d43e-71b6-425039e64122",
+  "name": "Aldeno (San Zeno)",
+  "lat": 45.968006,
+  "lon": 11.091231,
+  "elevation": 182
+ },
+ {
+  "id": "5535fcb4-15b6-0d6d-9bd5-9b97d21fbfd3",
+  "name": "Arco (Bruttagosto)",
+  "lat": 45.910374,
+  "lon": 10.887133,
+  "elevation": 85
+ },
+ {
+  "id": "94e1f921-b992-27c9-1dd3-5fbf1a5b60ee",
+  "name": "Bezzecca (Spessa)",
+  "lat": 45.895628,
+  "lon": 10.725025,
+  "elevation": 710
+ },
+ {
+  "id": "a6968dc5-661e-b6cc-7fe7-205a415c166b",
+  "name": "Bieno",
+  "lat": 46.081097,
+  "lon": 11.557174,
+  "elevation": 843
+ },
+ {
+  "id": "b8780871-eff8-0eea-8c8b-6979c2dbe296",
+  "name": "Brentonico (Santa Caterina)",
+  "lat": 45.824004,
+  "lon": 10.959756,
+  "elevation": 727
+ },
+ {
+  "id": "445ee35e-7df1-7033-e013-8718ec073e1a",
+  "name": "Bresimo (Malga Bordolona)",
+  "lat": 46.433136,
+  "lon": 10.889328,
+  "elevation": 1815
+ },
+ {
+  "id": "f1678f7b-4c28-fd3d-fea4-54296d4d5240",
+  "name": "Canal San Bovo",
+  "lat": 46.14956,
+  "lon": 11.734845,
+  "elevation": 750
+ },
+ {
+  "id": "fd5b6b59-7e54-5ac6-40fe-a88da77c9bc8",
+  "name": "Canazei (Ciampac)",
+  "lat": 46.44603056,
+  "lon": 11.76920556,
+  "elevation": 2150
+ },
+ {
+  "id": "4cfade1d-9068-1754-6173-11699623db22",
+  "name": "Canazei (Gries)",
+  "lat": 46.478318,
+  "lon": 11.766852,
+  "elevation": 1465
+ },
+ {
+  "id": "92040c29-71e3-e166-7951-5d9d89178443",
+  "name": "Caoria",
+  "lat": 46.192017,
+  "lon": 11.683911,
+  "elevation": 803
+ },
+ {
+  "id": "230affef-b88a-a3ed-557a-43f02dfc6f3c",
+  "name": "Capriana",
+  "lat": 46.263079,
+  "lon": 11.33633,
+  "elevation": 1055
+ },
+ {
+  "id": "f78155fa-6b23-959b-cfd9-3f64f5dcd0ac",
+  "name": "Careser (Diga)",
+  "lat": 46.422585,
+  "lon": 10.699111,
+  "elevation": 2600
+ },
+ {
+  "id": "7ae409d2-3719-52e6-7c27-055f3e1cb2ff",
+  "name": "Castelfondo (Malga Castrin)",
+  "lat": 46.510001,
+  "lon": 11.043574,
+  "elevation": 1815
+ },
+ {
+  "id": "080fb77a-a8ca-2ade-9c84-aa456819fa61",
+  "name": "Castello Tesino (Le Parti)",
+  "lat": 46.056924,
+  "lon": 11.629929,
+  "elevation": 801
+ },
+ {
+  "id": "f4de1431-0fb7-5447-2bbd-4d9abda8664b",
+  "name": "Cavalese",
+  "lat": 46.284782,
+  "lon": 11.451713,
+  "elevation": 958
+ },
+ {
+  "id": "0f2e24b7-64b0-699d-0315-a076e91036c1",
+  "name": "Cembra",
+  "lat": 46.170372,
+  "lon": 11.217711,
+  "elevation": 652
+ },
+ {
+  "id": "78e48801-b8b0-3528-eba6-cb11445d1f75",
+  "name": "Centa San Nicolo'",
+  "lat": 45.970142,
+  "lon": 11.234176,
+  "elevation": 805
+ },
+ {
+  "id": "db9dbeee-ee80-f1bb-4278-03e3f3b72aeb",
+  "name": "Cermis (Casere)",
+  "lat": 46.250369,
+  "lon": 11.491486,
+  "elevation": 1900
+ },
+ {
+  "id": "1b26a146-16d4-3f06-3145-b7a7c89737ea",
+  "name": "Cles (Maso Maiano)",
+  "lat": 46.361167,
+  "lon": 11.039903,
+  "elevation": 655
+ },
+ {
+  "id": "7f9bb0f6-ee8f-eae8-85bc-a05c18738cc7",
+  "name": "Daone (Malga Bissina)",
+  "lat": 46.052903,
+  "lon": 10.514122,
+  "elevation": 1785
+ },
+ {
+  "id": "2cfc4e46-8383-3c49-b552-c2bbfa7de59c",
+  "name": "Daone (Pracul)",
+  "lat": 45.971466,
+  "lon": 10.563104,
+  "elevation": 897
+ },
+ {
+  "id": "1548a452-d994-ca03-498e-54d2823273dc",
+  "name": "Dos Del Sabion (Monte Grual)",
+  "lat": 46.17225481,
+  "lon": 10.81181345,
+  "elevation": 1894
+ },
+ {
+  "id": "444fd870-b798-0cf2-6811-d1d45f62c7f0",
+  "name": "Folgaria",
+  "lat": 45.915349,
+  "lon": 11.164353,
+  "elevation": 1121
+ },
+ {
+  "id": "1808e3b3-5a4f-2487-3f4c-4cddb0d3b719",
+  "name": "Fondo",
+  "lat": 46.437705,
+  "lon": 11.129627,
+  "elevation": 910
+ },
+ {
+  "id": "9f910c2b-8dc7-eb17-e9c5-8ba31f95fcc1",
+  "name": "Giustino (frana)",
+  "lat": 46.147487,
+  "lon": 10.775487,
+  "elevation": 877
+ },
+ {
+  "id": "6cff76a4-ec43-4fce-b903-debdec983064",
+  "name": "Grigno",
+  "lat": 46.006312,
+  "lon": 11.656835,
+  "elevation": 238
+ },
+ {
+  "id": "eb699861-7dff-2241-7a32-f6de4d27aee2",
+  "name": "Grigno (Barricata)",
+  "lat": 45.979906,
+  "lon": 11.590219,
+  "elevation": 1345
+ },
+ {
+  "id": "467032ca-2886-e138-c53f-3381d3ebfdfe",
+  "name": "Lases (frana)",
+  "lat": 46.139381,
+  "lon": 11.223419,
+  "elevation": 705
+ },
+ {
+  "id": "dcef050b-7cc2-e362-dbf8-60c2db199aa3",
+  "name": "Lavarone (Chiesa)",
+  "lat": 45.940308,
+  "lon": 11.253721,
+  "elevation": 1155
+ },
+ {
+  "id": "9f69e14e-0f82-b290-e824-da05f854fdfc",
+  "name": "Levico (Terme)",
+  "lat": 46.010558,
+  "lon": 11.305143,
+  "elevation": 502
+ },
+ {
+  "id": "bb304be3-6d32-537c-a22c-fc22ea3f5d4f",
+  "name": "Male'",
+  "lat": 46.351598,
+  "lon": 10.918411,
+  "elevation": 720
+ },
+ {
+  "id": "62c28f57-334d-a48f-67c7-95e63aa52215",
+  "name": "Marmolada (Sas Del Mul)",
+  "lat": 46.443614,
+  "lon": 11.880813,
+  "elevation": 2606
+ },
+ {
+  "id": "a926ed39-73a5-491e-494a-6faeca785299",
+  "name": "Mezzana",
+  "lat": 46.313313,
+  "lon": 10.795904,
+  "elevation": 905
+ },
+ {
+  "id": "43bb21fe-5a3a-85a1-e9ad-95defb54d6cb",
+  "name": "Mezzano",
+  "lat": 46.154673,
+  "lon": 11.812625,
+  "elevation": 640
+ },
+ {
+  "id": "e4fc165e-3aba-f774-fb95-84c35e8a7056",
+  "name": "Mezzolombardo (Maso Delle Part)",
+  "lat": 46.187266,
+  "lon": 11.104432,
+  "elevation": 204
+ },
+ {
+  "id": "4a1a1df6-50aa-dba6-9326-0bc0612ecf23",
+  "name": "Moena (Diga Pezze')",
+  "lat": 46.383644,
+  "lon": 11.664651,
+  "elevation": 1205
+ },
+ {
+  "id": "31b37da1-d76f-3ad9-a0e4-c113ee31dd66",
+  "name": "Molveno",
+  "lat": 46.141618,
+  "lon": 10.957526,
+  "elevation": 835
+ },
+ {
+  "id": "8ba3ddf0-58a5-0c6b-5bf4-8df5ba933723",
+  "name": "Montagne (Larzana)",
+  "lat": 46.059072,
+  "lon": 10.7517,
+  "elevation": 955
+ },
+ {
+  "id": "01ad67db-16d8-93f2-a2eb-d449bc192471",
+  "name": "Monte Bondone (Viote)",
+  "lat": 46.013651,
+  "lon": 11.054869,
+  "elevation": 1490
+ },
+ {
+  "id": "afd7cdd3-c74f-1091-910d-b67c8f2422fd",
+  "name": "Monte Groste' (Rifugio Graffer)",
+  "lat": 46.21772173,
+  "lon": 10.88975472,
+  "elevation": 2258
+ },
+ {
+  "id": "47b5064d-29f2-f3c3-c1bf-8f177f773e97",
+  "name": "Paganella (Malga Terlago)",
+  "lat": 46.143008,
+  "lon": 11.021504,
+  "elevation": 1790
+ },
+ {
+  "id": "41eb3e53-ae76-42da-fb2f-f0fcd73e0e6c",
+  "name": "Passo Brocon",
+  "lat": 46.116677,
+  "lon": 11.663267,
+  "elevation": 1610
+ },
+ {
+  "id": "c3b13ff0-25ca-f580-ed9c-f1221176a0a7",
+  "name": "Passo Cereda",
+  "lat": 46.195903,
+  "lon": 11.915734,
+  "elevation": 1322
+ },
+ {
+  "id": "2ed3bfad-2311-4bb6-3102-cb13df8056a3",
+  "name": "Passo Costalunga",
+  "lat": 46.404528,
+  "lon": 11.613615,
+  "elevation": 1750
+ },
+ {
+  "id": "31e9ec2d-068a-9503-e928-3e4abfb8649f",
+  "name": "Passo Mendola",
+  "lat": 46.419179,
+  "lon": 11.189336,
+  "elevation": 1315
+ },
+ {
+  "id": "0e0de7ab-6a60-573c-02a8-92d41ee58a99",
+  "name": "Passo Rolle",
+  "lat": 46.297919,
+  "lon": 11.787124,
+  "elevation": 2012
+ },
+ {
+  "id": "4b11d2d8-c257-552a-5bae-2a8fea0cb3de",
+  "name": "Passo Sommo",
+  "lat": 45.918646,
+  "lon": 11.206083,
+  "elevation": 1360
+ },
+ {
+  "id": "b8a65c67-f1d2-4153-8af0-f8dd8ee5b2c2",
+  "name": "Passo Tonale",
+  "lat": 46.262564,
+  "lon": 10.596825,
+  "elevation": 1875
+ },
+ {
+  "id": "42fd6034-354f-4d11-2a87-5ed06c8447eb",
+  "name": "Passo Valles",
+  "lat": 46.33839,
+  "lon": 11.799791,
+  "elevation": 2032
+ },
+ {
+  "id": "1b4578a9-e91c-724a-3c0c-e526620717a8",
+  "name": "Peio",
+  "lat": 46.364364,
+  "lon": 10.67783,
+  "elevation": 1585
+ },
+ {
+  "id": "eb974fd0-aca0-72d2-e892-f3e76edfbe92",
+  "name": "Pergine Valsugana",
+  "lat": 46.06188027,
+  "lon": 11.24426731,
+  "elevation": 498
+ },
+ {
+  "id": "5c7a1f6b-29fa-cc0c-d62d-0d1f27770afe",
+  "name": "Pian Fedaia (Diga)",
+  "lat": 46.459032,
+  "lon": 11.862873,
+  "elevation": 2063
+ },
+ {
+  "id": "114b5a5a-c3fd-7dfc-4aa2-7a3bc1519689",
+  "name": "Pieve Di Bono",
+  "lat": 45.940987,
+  "lon": 10.642872,
+  "elevation": 525
+ },
+ {
+  "id": "ae9bf85c-c0d1-5357-e129-5a3f2740b9be",
+  "name": "Pieve Tesino (Malga Sorgazza)",
+  "lat": 46.133545,
+  "lon": 11.59989,
+  "elevation": 1435
+ },
+ {
+  "id": "87d8b42c-205b-d925-6bec-0c299d42e7d2",
+  "name": "Pinzolo",
+  "lat": 46.156507,
+  "lon": 10.757484,
+  "elevation": 760
+ },
+ {
+  "id": "4002d4b9-616e-4ac7-d90a-ff84a2b454aa",
+  "name": "Pinzolo (Malga Zeledria)",
+  "lat": 46.244878,
+  "lon": 10.834362,
+  "elevation": 1775
+ },
+ {
+  "id": "59e53ee4-18e1-a494-53c7-e5bd9dad3991",
+  "name": "Pradalago (Rifugio Viviani)",
+  "lat": 46.249695,
+  "lon": 10.813895,
+  "elevation": 2084
+ },
+ {
+  "id": "671e756c-15cd-0131-3121-1fdc417b2c19",
+  "name": "Predazzo",
+  "lat": 46.297866,
+  "lon": 11.598248,
+  "elevation": 1000
+ },
+ {
+  "id": "4f47af23-8f72-64d7-4688-7fdcc0397a7d",
+  "name": "Rabbi (San Bernardo)",
+  "lat": 46.401374,
+  "lon": 10.849515,
+  "elevation": 1132
+ },
+ {
+  "id": "98fffc62-3cb1-4a65-0f45-44dd681e5f0e",
+  "name": "Romeno",
+  "lat": 46.390687,
+  "lon": 11.118861,
+  "elevation": 958
+ },
+ {
+  "id": "90f3e926-b74d-550c-5486-b7832a122617",
+  "name": "Rovereto",
+  "lat": 45.896325,
+  "lon": 11.043987,
+  "elevation": 203
+ },
+ {
+  "id": "4df873a3-30bb-ab96-744b-64c0a80ede89",
+  "name": "Rumo (Lanza)",
+  "lat": 46.45391,
+  "lon": 11.008531,
+  "elevation": 1100
+ },
+ {
+  "id": "28456165-0aaf-97c2-c089-d827fbd29ecd",
+  "name": "San Lorenzo In Banale (Pergoletti)",
+  "lat": 46.066311,
+  "lon": 10.9113,
+  "elevation": 685
+ },
+ {
+  "id": "9577a364-04f8-abb0-97a4-74826f83ae42",
+  "name": "San Martino di Castrozza",
+  "lat": 46.261622,
+  "lon": 11.796306,
+  "elevation": 1470
+ },
+ {
+  "id": "71e67be3-117d-eb1c-7b3e-36695d1ae748",
+  "name": "Sant'Orsola Terme",
+  "lat": 46.107093,
+  "lon": 11.30223,
+  "elevation": 925
+ },
+ {
+  "id": "6e4a6fb3-b974-da13-b65c-5186e2c38eda",
+  "name": "Santa Massenza (Centrale)",
+  "lat": 46.065195,
+  "lon": 10.980275,
+  "elevation": 252
+ },
+ {
+  "id": "110877fb-e5fa-3dc4-c9aa-fc5316607e48",
+  "name": "Spormaggiore",
+  "lat": 46.219949,
+  "lon": 11.046814,
+  "elevation": 555
+ },
+ {
+  "id": "2cff431d-353a-7cf0-572c-a7eac25e7637",
+  "name": "Storo",
+  "lat": 45.846767,
+  "lon": 10.562447,
+  "elevation": 385
+ },
+ {
+  "id": "88086474-9414-3fa1-7a1c-cf0ab9b03849",
+  "name": "Telve",
+  "lat": 46.058046,
+  "lon": 11.477478,
+  "elevation": 410
+ },
+ {
+  "id": "5d6af414-6afd-ee04-b8c4-f6394b5ebc20",
+  "name": "Telve (Pontarso)",
+  "lat": 46.115819,
+  "lon": 11.49451,
+  "elevation": 925
+ },
+ {
+  "id": "ae2bd313-05eb-f778-0c53-d2990df52298",
+  "name": "Tenno",
+  "lat": 45.91905,
+  "lon": 10.831278,
+  "elevation": 415
+ },
+ {
+  "id": "1d5e2034-6135-e10a-2661-54ee96a136b6",
+  "name": "Terragnolo (Piazza)",
+  "lat": 45.879641,
+  "lon": 11.151135,
+  "elevation": 800
+ },
+ {
+  "id": "559a2afc-e7f9-2864-d84c-a48658445594",
+  "name": "Tione",
+  "lat": 46.041087,
+  "lon": 10.730879,
+  "elevation": 533
+ },
+ {
+  "id": "2e8191fb-37e1-996a-97f3-fa2278be37ce",
+  "name": "Tonadico (Castelpietra)",
+  "lat": 46.198934,
+  "lon": 11.865668,
+  "elevation": 1045
+ },
+ {
+  "id": "41ffc0b6-0e7e-db57-e3f9-400292ac2b27",
+  "name": "Torbole (Belvedere)",
+  "lat": 45.870095,
+  "lon": 10.877355,
+  "elevation": 90
+ },
+ {
+  "id": "10c0cda8-6855-257d-aac2-a7e0cf50e774",
+  "name": "Tremalzo",
+  "lat": 45.841658,
+  "lon": 10.684142,
+  "elevation": 1560
+ },
+ {
+  "id": "f60ee160-267e-e2a6-a0dc-f93613d5821f",
+  "name": "Trento (Laste)",
+  "lat": 46.071801,
+  "lon": 11.135703,
+  "elevation": 312
+ },
+ {
+  "id": "c4df8511-b385-0230-f78a-f985caffd68c",
+  "name": "Trento (Liceo Galilei)",
+  "lat": 46.064375,
+  "lon": 11.13742,
+  "elevation": 255
+ },
+ {
+  "id": "85ea1076-d149-df7e-dfba-2484fa38278e",
+  "name": "Trento (Roncafort)",
+  "lat": 46.095645,
+  "lon": 11.10137,
+  "elevation": 194
+ },
+ {
+  "id": "f93b8f7b-3d85-4acf-353f-8941e9e4cbb6",
+  "name": "Tres",
+  "lat": 46.32065,
+  "lon": 11.101437,
+  "elevation": 838
+ },
+ {
+  "id": "823e556f-50a7-9898-c17d-973642015750",
+  "name": "Val di Breguzzo (Ponte Arno')",
+  "lat": 46.032015,
+  "lon": 10.640606,
+  "elevation": 1148
+ },
+ {
+  "id": "41b63461-eb6f-b2f1-7e4e-1b3cd617b3ef",
+  "name": "Val Genova (Malga Caret)",
+  "lat": 46.18142,
+  "lon": 10.634818,
+  "elevation": 1418
+ },
+ {
+  "id": "64874b5f-5f50-18c3-f104-7c7cd4c546b6",
+  "name": "Val Noana (Diga)",
+  "lat": 46.138717,
+  "lon": 11.839286,
+  "elevation": 1030
+ },
+ {
+  "id": "1fb4a386-c305-d6b4-7a29-532e833fd7f5",
+  "name": "Vallarsa (Parrocchia)",
+  "lat": 45.780307,
+  "lon": 11.122849,
+  "elevation": 737
+ },
+ {
+  "id": "6402bdd9-1219-f166-1b0c-065678d7d097",
+  "name": "Zambana (Idrovora)",
+  "lat": 46.156797,
+  "lon": 11.079051,
+  "elevation": 205
+ },
+ {
+  "id": "cba053e7-ac5a-e20d-4988-44e868cf9318",
+  "name": "Ziano Di Fiemme (Malga Sadole)",
+  "lat": 46.260619,
+  "lon": 11.597609,
+  "elevation": 1608
+ }
+]

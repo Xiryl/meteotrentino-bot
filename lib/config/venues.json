@@ -1,0 +1,1474 @@
+[
+ {
+  "id": "69793d0f-ca9a-4779-9cf8-9db1e2fe3459",
+  "name": "Ala",
+  "type": "comune",
+  "lat": 45.757142,
+  "lon": 11.004772,
+  "elevation": 180
+ },
+ {
+  "id": "50a55eb0-18d6-4102-bcdb-794b831000b3",
+  "name": "Albiano",
+  "type": "comune",
+  "lat": 46.14342,
+  "lon": 11.195171,
+  "elevation": 644
+ },
+ {
+  "id": "ed52d336-4e85-40a4-bf6d-8ff3191962b2",
+  "name": "Aldeno",
+  "type": "comune",
+  "lat": 45.977951,
+  "lon": 11.092142,
+  "elevation": 209
+ },
+ {
+  "id": "37bb2112-8b78-4e67-a14b-a8c1841c0804",
+  "name": "Altavalle",
+  "type": "comune",
+  "lat": 46.22352,
+  "lon": 11.26766,
+  "elevation": 673
+ },
+ {
+  "id": "74070c93-f8fb-4aab-9f64-85a5377bbec5",
+  "name": "Altopiano della Vigolana",
+  "type": "comune",
+  "lat": 45.995752,
+  "lon": 11.223937,
+  "elevation": 725
+ },
+ {
+  "id": "af8e3f7f-2a4f-4ca7-8d2d-662462d9f983",
+  "name": "Amblar-Don",
+  "type": "comune",
+  "lat": 46.389809,
+  "lon": 11.13576,
+  "elevation": 971
+ },
+ {
+  "id": "03525eb1-c139-4bbd-b836-cc7d3eaa78b3",
+  "name": "Andalo",
+  "type": "comune",
+  "lat": 46.165956,
+  "lon": 11.005633,
+  "elevation": 1042
+ },
+ {
+  "id": "d84f35fa-b3dd-4172-b3ac-bf0989f17d43",
+  "name": "Arco",
+  "type": "comune",
+  "lat": 45.918657,
+  "lon": 10.885328,
+  "elevation": 91
+ },
+ {
+  "id": "328bb878-76fd-4d9c-a198-1af6a2095f2f",
+  "name": "Avio",
+  "type": "comune",
+  "lat": 45.734239,
+  "lon": 10.935787,
+  "elevation": 131
+ },
+ {
+  "id": "b368e865-4131-40e5-ae4b-4c4503584481",
+  "name": "Baselga di Piné",
+  "type": "comune",
+  "lat": 46.132749,
+  "lon": 11.242478,
+  "elevation": 964
+ },
+ {
+  "id": "58d8fb51-0e77-4989-aff3-87960c52e3e3",
+  "name": "Bedollo",
+  "type": "comune",
+  "lat": 46.165646,
+  "lon": 11.301567,
+  "elevation": 1059
+ },
+ {
+  "id": "6e2c01ba-5fde-424d-a17f-c6937805c115",
+  "name": "Besenello",
+  "type": "comune",
+  "lat": 45.94014,
+  "lon": 11.111668,
+  "elevation": 218
+ },
+ {
+  "id": "6dc1016a-0be5-414b-91e4-9c926a895e1e",
+  "name": "Bieno",
+  "type": "comune",
+  "lat": 46.0811,
+  "lon": 11.555535,
+  "elevation": 815
+ },
+ {
+  "id": "c64f96f6-fb15-483a-aa3f-47a8905012ed",
+  "name": "Bleggio Superiore",
+  "type": "comune",
+  "lat": 46.022213,
+  "lon": 10.814559,
+  "elevation": 628
+ },
+ {
+  "id": "022409ae-b6f4-430a-90c4-e1a07423f88b",
+  "name": "Bocenago",
+  "type": "comune",
+  "lat": 46.11634,
+  "lon": 10.757337,
+  "elevation": 750
+ },
+ {
+  "id": "c0db0056-0089-43b3-9de4-474997257d53",
+  "name": "Bondone",
+  "type": "comune",
+  "lat": 45.806725,
+  "lon": 10.549567,
+  "elevation": 720
+ },
+ {
+  "id": "d2888885-2878-48db-b903-6a1266db3582",
+  "name": "Borgo Chiese",
+  "type": "comune",
+  "lat": 45.900065,
+  "lon": 10.570144,
+  "elevation": 444
+ },
+ {
+  "id": "cbc65c6e-82aa-4e27-80ab-6a2d56479133",
+  "name": "Borgo d'Anaunia",
+  "type": "comune",
+  "lat": 46.43989,
+  "lon": 11.13582,
+  "elevation": 1000
+ },
+ {
+  "id": "c8bba394-70cc-4aea-bf96-f4ef26cfc152",
+  "name": "Borgo Lares",
+  "type": "comune",
+  "lat": 46.005091,
+  "lon": 10.735981,
+  "elevation": 595
+ },
+ {
+  "id": "501d3c7f-ba05-48d9-b112-1a6dc2bf77b0",
+  "name": "Borgo Valsugana",
+  "type": "comune",
+  "lat": 46.053403,
+  "lon": 11.457768,
+  "elevation": 380
+ },
+ {
+  "id": "43f0e812-8c25-4cf4-b279-cc91edbb5b81",
+  "name": "Brentonico",
+  "type": "comune",
+  "lat": 45.820504,
+  "lon": 10.958179,
+  "elevation": 692
+ },
+ {
+  "id": "2deefb09-08f8-441a-a716-aa353524db8c",
+  "name": "Bresimo",
+  "type": "comune",
+  "lat": 46.413357,
+  "lon": 10.9646,
+  "elevation": 1036
+ },
+ {
+  "id": "d112b272-4379-46c1-ad6d-6585a167e208",
+  "name": "Caderzone Terme",
+  "type": "comune",
+  "lat": 46.129577,
+  "lon": 10.75703,
+  "elevation": 723
+ },
+ {
+  "id": "3afe4975-74f3-461f-b595-8d480a69c484",
+  "name": "Calceranica al Lago",
+  "type": "comune",
+  "lat": 46.003439,
+  "lon": 11.243691,
+  "elevation": 465
+ },
+ {
+  "id": "f26db29f-6699-47fb-bd09-f6b151021187",
+  "name": "Caldes",
+  "type": "comune",
+  "lat": 46.365291,
+  "lon": 10.943121,
+  "elevation": 697
+ },
+ {
+  "id": "eed1a270-9d17-46ce-92d1-b1ee967ed96a",
+  "name": "Caldonazzo",
+  "type": "comune",
+  "lat": 45.994305,
+  "lon": 11.263311,
+  "elevation": 480
+ },
+ {
+  "id": "f7552384-07ce-4946-b3fe-625fc704ad75",
+  "name": "Calliano",
+  "type": "comune",
+  "lat": 45.934223,
+  "lon": 11.094362,
+  "elevation": 187
+ },
+ {
+  "id": "c0963839-ab27-4f97-9915-9833f165347a",
+  "name": "Campitello di Fassa",
+  "type": "comune",
+  "lat": 46.477022,
+  "lon": 11.740526,
+  "elevation": 1448
+ },
+ {
+  "id": "4bd9dbf4-c327-4201-941b-bf334ffd6de2",
+  "name": "Campodenno",
+  "type": "comune",
+  "lat": 46.25834,
+  "lon": 11.032973,
+  "elevation": 534
+ },
+ {
+  "id": "68cf5878-23f5-4cc1-afa4-2ec595abc9b3",
+  "name": "Canal San Bovo",
+  "type": "comune",
+  "lat": 46.154974,
+  "lon": 11.732546,
+  "elevation": 757
+ },
+ {
+  "id": "186ca596-abfc-4882-ac14-999ed5edc6c6",
+  "name": "Canazei",
+  "type": "comune",
+  "lat": 46.476874,
+  "lon": 11.773886,
+  "elevation": 1465
+ },
+ {
+  "id": "21beb719-69d1-4db3-a99d-1a0a9b990182",
+  "name": "Capriana",
+  "type": "comune",
+  "lat": 46.263117,
+  "lon": 11.338022,
+  "elevation": 1007
+ },
+ {
+  "id": "3815fbae-78be-47b9-a675-f99231f0d978",
+  "name": "Carisolo",
+  "type": "comune",
+  "lat": 46.167829,
+  "lon": 10.760127,
+  "elevation": 808
+ },
+ {
+  "id": "9efc0db2-8457-4c25-91ce-6741e38d4d0a",
+  "name": "Carzano",
+  "type": "comune",
+  "lat": 46.070354,
+  "lon": 11.494048,
+  "elevation": 433
+ },
+ {
+  "id": "c3278c9f-483f-481c-9593-32fc523e9d42",
+  "name": "Castel Condino",
+  "type": "comune",
+  "lat": 45.914441,
+  "lon": 10.602459,
+  "elevation": 811
+ },
+ {
+  "id": "693fcdd9-aa41-4e24-a88a-bc76925c3e29",
+  "name": "Castel Ivano",
+  "type": "comune",
+  "lat": 46.064812,
+  "lon": 11.523904,
+  "elevation": 452
+ },
+ {
+  "id": "d4919a62-1a1b-4d25-8164-4bd37b915dc0",
+  "name": "Castello Tesino",
+  "type": "comune",
+  "lat": 46.064833,
+  "lon": 11.633262,
+  "elevation": 871
+ },
+ {
+  "id": "23e2c736-f478-47ea-81fb-948f867cae89",
+  "name": "Castello-Molina di Fiemme",
+  "type": "comune",
+  "lat": 46.279777,
+  "lon": 11.434301,
+  "elevation": 953
+ },
+ {
+  "id": "19e81b01-fafd-4abb-921b-9ab34140da0a",
+  "name": "Castelnuovo",
+  "type": "comune",
+  "lat": 46.052219,
+  "lon": 11.494223,
+  "elevation": 348
+ },
+ {
+  "id": "2d3dd4a1-d81c-44fa-8734-60c61ed23aff",
+  "name": "Cavalese",
+  "type": "comune",
+  "lat": 46.291585,
+  "lon": 11.459648,
+  "elevation": 1000
+ },
+ {
+  "id": "e5daca38-e869-4318-95a7-c8876f953773",
+  "name": "Cavareno",
+  "type": "comune",
+  "lat": 46.4085,
+  "lon": 11.138267,
+  "elevation": 973
+ },
+ {
+  "id": "128ce718-6b93-4f48-b3fd-4ead37aec63d",
+  "name": "Cavedago",
+  "type": "comune",
+  "lat": 46.18439,
+  "lon": 11.029374,
+  "elevation": 864
+ },
+ {
+  "id": "51196180-ddd3-496f-8f53-c75d505422df",
+  "name": "Cavedine",
+  "type": "comune",
+  "lat": 45.993975,
+  "lon": 10.973661,
+  "elevation": 504
+ },
+ {
+  "id": "51d00f86-8ff3-46c6-b66c-1e7a0c300950",
+  "name": "Cavizzana",
+  "type": "comune",
+  "lat": 46.36756,
+  "lon": 10.957974,
+  "elevation": 710
+ },
+ {
+  "id": "df212b06-b41f-44cd-947b-90beffa068d0",
+  "name": "Cembra Lisignago",
+  "type": "comune",
+  "lat": 46.17525,
+  "lon": 11.2207,
+  "elevation": 667
+ },
+ {
+  "id": "6d49623e-0264-4292-a820-86a5269c7d8d",
+  "name": "Cimone",
+  "type": "comune",
+  "lat": 45.978329,
+  "lon": 11.068497,
+  "elevation": 530
+ },
+ {
+  "id": "88d227e2-11c0-43fd-be1c-d4d0eb82c8a8",
+  "name": "Cinte Tesino",
+  "type": "comune",
+  "lat": 46.056152,
+  "lon": 11.615439,
+  "elevation": 851
+ },
+ {
+  "id": "1e5616b1-f529-4b9a-b66d-ed896c8b93e5",
+  "name": "Cis",
+  "type": "comune",
+  "lat": 46.3991,
+  "lon": 11.003753,
+  "elevation": 732
+ },
+ {
+  "id": "d7b1e541-42dc-4d4d-8741-3d784e5cd37a",
+  "name": "Civezzano",
+  "type": "comune",
+  "lat": 46.088333,
+  "lon": 11.180188,
+  "elevation": 469
+ },
+ {
+  "id": "c0808b1a-c732-41f4-94be-79823d15cbe6",
+  "name": "Cles",
+  "type": "comune",
+  "lat": 46.364587,
+  "lon": 11.035154,
+  "elevation": 658
+ },
+ {
+  "id": "b371e1b3-debc-4587-ab19-94b2f9656c09",
+  "name": "Comano Terme",
+  "type": "comune",
+  "lat": 46.03479,
+  "lon": 10.892383,
+  "elevation": 400
+ },
+ {
+  "id": "72ed25ed-9f81-447c-ac3b-c7afeca450cf",
+  "name": "Commezzadura",
+  "type": "comune",
+  "lat": 46.320926,
+  "lon": 10.843533,
+  "elevation": 850
+ },
+ {
+  "id": "532de7ad-8fee-4162-a298-afc80c3af87f",
+  "name": "Contà",
+  "type": "comune",
+  "lat": 46.294707,
+  "lon": 11.033153,
+  "elevation": 593
+ },
+ {
+  "id": "bd81d7f2-efde-4f35-8fb0-41d1b6bb1230",
+  "name": "Croviana",
+  "type": "comune",
+  "lat": 46.345033,
+  "lon": 10.903697,
+  "elevation": 721
+ },
+ {
+  "id": "34e6798e-05cb-405f-a5e5-565c0f16edad",
+  "name": "Dambel",
+  "type": "comune",
+  "lat": 46.405542,
+  "lon": 11.092699,
+  "elevation": 751
+ },
+ {
+  "id": "a1126516-2613-40d9-b335-5288d474e649",
+  "name": "Denno",
+  "type": "comune",
+  "lat": 46.274698,
+  "lon": 11.04958,
+  "elevation": 429
+ },
+ {
+  "id": "964becbc-cbeb-46a1-96ea-7bc11dafec89",
+  "name": "Dimaro Folgarida",
+  "type": "comune",
+  "lat": 46.32603,
+  "lon": 10.8744,
+  "elevation": 766
+ },
+ {
+  "id": "7d5c2086-fcef-41cc-959d-87c4d66c5b5c",
+  "name": "Drena",
+  "type": "comune",
+  "lat": 45.969687,
+  "lon": 10.945326,
+  "elevation": 398
+ },
+ {
+  "id": "70e50c27-02d5-4d76-a5c4-e2c7d5e83674",
+  "name": "Dro",
+  "type": "comune",
+  "lat": 45.961826,
+  "lon": 10.911332,
+  "elevation": 123
+ },
+ {
+  "id": "08473db5-3cb6-44ac-bd07-c23f72d8d552",
+  "name": "Fai della Paganella",
+  "type": "comune",
+  "lat": 46.179458,
+  "lon": 11.071044,
+  "elevation": 957
+ },
+ {
+  "id": "f911c3d8-7545-4738-96bc-2f7859674fb8",
+  "name": "Fiavé",
+  "type": "comune",
+  "lat": 46.004774,
+  "lon": 10.842255,
+  "elevation": 669
+ },
+ {
+  "id": "58a1134f-2ac1-4095-a52f-e381e1d4a39a",
+  "name": "Fierozzo",
+  "type": "comune",
+  "lat": 46.107071,
+  "lon": 11.314229,
+  "elevation": 1127
+ },
+ {
+  "id": "dc868eb0-95aa-4b6e-b7ed-b2dbf3b68509",
+  "name": "Folgaria",
+  "type": "comune",
+  "lat": 45.91556,
+  "lon": 11.172458,
+  "elevation": 1166
+ },
+ {
+  "id": "cfce9526-f170-4e30-9e73-f2999c2ca933",
+  "name": "Fornace",
+  "type": "comune",
+  "lat": 46.117161,
+  "lon": 11.205642,
+  "elevation": 740
+ },
+ {
+  "id": "e312b687-6dcc-4b6e-8693-4276bb63ddad",
+  "name": "Frassilongo",
+  "type": "comune",
+  "lat": 46.089358,
+  "lon": 11.296764,
+  "elevation": 852
+ },
+ {
+  "id": "68c600e0-078f-41c7-b583-a1faeac71147",
+  "name": "Garniga Terme",
+  "type": "comune",
+  "lat": 46.004375,
+  "lon": 11.088276,
+  "elevation": 810
+ },
+ {
+  "id": "35c6a001-c881-4e1e-a405-361a5443b18d",
+  "name": "Giovo",
+  "type": "comune",
+  "lat": 46.15698,
+  "lon": 11.153295,
+  "elevation": 496
+ },
+ {
+  "id": "1c6f9b44-094a-4604-8023-33be3d5e7be5",
+  "name": "Giustino",
+  "type": "comune",
+  "lat": 46.146428,
+  "lon": 10.769085,
+  "elevation": 770
+ },
+ {
+  "id": "d1d9e526-6f50-40ef-93de-7b2f78316d7f",
+  "name": "Grigno",
+  "type": "comune",
+  "lat": 46.016371,
+  "lon": 11.633807,
+  "elevation": 263
+ },
+ {
+  "id": "d4e059ba-a969-4275-9989-922c1a8894ad",
+  "name": "Imer",
+  "type": "comune",
+  "lat": 46.150788,
+  "lon": 11.798407,
+  "elevation": 670
+ },
+ {
+  "id": "9e0c829c-1cbd-4050-b1bc-730c052200ca",
+  "name": "Isera",
+  "type": "comune",
+  "lat": 45.887296,
+  "lon": 11.008868,
+  "elevation": 243
+ },
+ {
+  "id": "3c4bc6bf-212c-4a2a-8556-9689ce2ca9ab",
+  "name": "Lavarone",
+  "type": "comune",
+  "lat": 45.946843,
+  "lon": 11.265895,
+  "elevation": 1170
+ },
+ {
+  "id": "db168a1a-c18a-4e83-b3c3-26a077856927",
+  "name": "Lavis",
+  "type": "comune",
+  "lat": 46.139751,
+  "lon": 11.111569,
+  "elevation": 232
+ },
+ {
+  "id": "ceca8894-abbc-4ba3-b0ee-e8150b7e3a9f",
+  "name": "Ledro",
+  "type": "comune",
+  "lat": 45.885345,
+  "lon": 10.717427,
+  "elevation": 660
+ },
+ {
+  "id": "358309dc-78e9-4f6c-8681-c96079d9ea49",
+  "name": "Levico Terme",
+  "type": "comune",
+  "lat": 46.011634,
+  "lon": 11.300855,
+  "elevation": 506
+ },
+ {
+  "id": "d161b7b6-5e92-4684-88b6-08079f94ca5d",
+  "name": "Livo",
+  "type": "comune",
+  "lat": 46.404963,
+  "lon": 11.018735,
+  "elevation": 741
+ },
+ {
+  "id": "4f78668c-ee3b-49b0-a481-6a72fe67dda6",
+  "name": "Lona-Lases",
+  "type": "comune",
+  "lat": 46.145128,
+  "lon": 11.220833,
+  "elevation": 639
+ },
+ {
+  "id": "3f047e32-b139-4096-ae25-9c83a4441130",
+  "name": "Luserna",
+  "type": "comune",
+  "lat": 45.921673,
+  "lon": 11.324404,
+  "elevation": 1333
+ },
+ {
+  "id": "847d5c76-dfea-4cc5-9c8f-9fe37823f7ad",
+  "name": "Madonna di Campiglio",
+  "type": "comune",
+  "lat": 46.2238543,
+  "lon": 10.8161561,
+  "elevation": 1522
+ },
+ {
+  "id": "80b006a2-5a18-4a96-9902-8a0535f8910d",
+  "name": "Madruzzo",
+  "type": "comune",
+  "lat": 46.035876,
+  "lon": 10.98387,
+  "elevation": 463
+ },
+ {
+  "id": "b33a3c75-6a80-4d69-bfd6-6a83bd863928",
+  "name": "Malé",
+  "type": "comune",
+  "lat": 46.352664,
+  "lon": 10.912643,
+  "elevation": 738
+ },
+ {
+  "id": "73cbb4a5-bbcd-4e36-bb87-987adf8928be",
+  "name": "Massimeno",
+  "type": "comune",
+  "lat": 46.14259,
+  "lon": 10.773752,
+  "elevation": 861
+ },
+ {
+  "id": "984c06ff-3d8f-4f35-9652-d6718f160a44",
+  "name": "Mazzin",
+  "type": "comune",
+  "lat": 46.457175,
+  "lon": 11.700143,
+  "elevation": 1372
+ },
+ {
+  "id": "5a5d33b6-7144-4913-b1be-45dbd7a9d7fd",
+  "name": "Mezzana",
+  "type": "comune",
+  "lat": 46.317063,
+  "lon": 10.801066,
+  "elevation": 941
+ },
+ {
+  "id": "23bf9fa6-3255-4a5a-a714-2ca30ca6a809",
+  "name": "Mezzano",
+  "type": "comune",
+  "lat": 46.154515,
+  "lon": 11.805874,
+  "elevation": 640
+ },
+ {
+  "id": "29e8072a-110b-48c3-908c-268c3e334808",
+  "name": "Mezzocorona",
+  "type": "comune",
+  "lat": 46.216903,
+  "lon": 11.119425,
+  "elevation": 219
+ },
+ {
+  "id": "db8d25d3-f7e9-4cf7-8e98-dc57e6c40a11",
+  "name": "Mezzolombardo",
+  "type": "comune",
+  "lat": 46.213474,
+  "lon": 11.090578,
+  "elevation": 227
+ },
+ {
+  "id": "a35c1ca5-1a8a-4db2-89be-8fa4b5c0bee0",
+  "name": "Moena",
+  "type": "comune",
+  "lat": 46.37586,
+  "lon": 11.658595,
+  "elevation": 1184
+ },
+ {
+  "id": "0867c080-d2f7-4607-bd32-fb50b47fc91e",
+  "name": "Molveno",
+  "type": "comune",
+  "lat": 46.142673,
+  "lon": 10.966408,
+  "elevation": 865
+ },
+ {
+  "id": "034a30f4-aa50-411f-948f-d4365f1be53f",
+  "name": "Mori",
+  "type": "comune",
+  "lat": 45.851912,
+  "lon": 10.977647,
+  "elevation": 204
+ },
+ {
+  "id": "419a12dc-c379-4c33-bd72-b870351a1b51",
+  "name": "Nago-Torbole",
+  "type": "comune",
+  "lat": 45.877388,
+  "lon": 10.890423,
+  "elevation": 222
+ },
+ {
+  "id": "135c1bb1-8b05-4ed8-830e-ff7443a8f9bd",
+  "name": "Nogaredo",
+  "type": "comune",
+  "lat": 45.911904,
+  "lon": 11.024818,
+  "elevation": 216
+ },
+ {
+  "id": "800d4724-452a-4641-8f4e-45b0777d4a87",
+  "name": "Nomi",
+  "type": "comune",
+  "lat": 45.929542,
+  "lon": 11.069781,
+  "elevation": 179
+ },
+ {
+  "id": "0aa5df86-53a9-4589-bd82-ec7ab4f4fff9",
+  "name": "Novaledo",
+  "type": "comune",
+  "lat": 46.021798,
+  "lon": 11.365011,
+  "elevation": 475
+ },
+ {
+  "id": "7dc0dfec-7061-4962-9645-487778b5e93e",
+  "name": "Novella",
+  "type": "comune",
+  "lat": 46.39632,
+  "lon": 11.06593,
+  "elevation": 740
+ },
+ {
+  "id": "111a8fd9-33a2-40c4-836b-183bdc3ae6ad",
+  "name": "Ospedaletto",
+  "type": "comune",
+  "lat": 46.043594,
+  "lon": 11.55273,
+  "elevation": 360
+ },
+ {
+  "id": "6ec60a8a-96e5-4312-a077-ca805a03ceb1",
+  "name": "Ossana",
+  "type": "comune",
+  "lat": 46.306907,
+  "lon": 10.73753,
+  "elevation": 1003
+ },
+ {
+  "id": "94f28857-7e64-4587-acce-74121e255b83",
+  "name": "Palù del Fersina",
+  "type": "comune",
+  "lat": 46.13693,
+  "lon": 11.355541,
+  "elevation": 1360
+ },
+ {
+  "id": "912d6356-246f-4ef1-99aa-af9a7cfeed57",
+  "name": "Panchià",
+  "type": "comune",
+  "lat": 46.285864,
+  "lon": 11.543897,
+  "elevation": 981
+ },
+ {
+  "id": "26fe0297-af43-41b0-b579-c81ea2cd6786",
+  "name": "Passo Brocon",
+  "type": "comune",
+  "lat": 46.11867,
+  "lon": 11.688425,
+  "elevation": 1618
+ },
+ {
+  "id": "d5c94af4-b6e7-42ff-9bd0-79e2269856cd",
+  "name": "Passo Coe",
+  "type": "comune",
+  "lat": 45.876628,
+  "lon": 11.214937,
+  "elevation": 1611
+ },
+ {
+  "id": "0f1b5876-9325-4685-a471-1938cf39ec80",
+  "name": "Passo del Tonale",
+  "type": "comune",
+  "lat": 46.258557,
+  "lon": 10.590497,
+  "elevation": 1832
+ },
+ {
+  "id": "99672c7a-64a0-4b4a-89d8-1fddc1fd658a",
+  "name": "Passo della Mendola",
+  "type": "comune",
+  "lat": 46.415118,
+  "lon": 11.205013,
+  "elevation": 1361
+ },
+ {
+  "id": "90168c47-1b9d-442f-8e83-10cfce7d8ac4",
+  "name": "Passo di Costalunga",
+  "type": "comune",
+  "lat": 46.406344,
+  "lon": 11.609707,
+  "elevation": 1772
+ },
+ {
+  "id": "79272660-5fe0-49ae-a712-f507241491b1",
+  "name": "Passo di Lavazè",
+  "type": "comune",
+  "lat": 46.354092,
+  "lon": 11.489754,
+  "elevation": 1816
+ },
+ {
+  "id": "00140f3e-551b-4162-9a61-fa5b72f9698e",
+  "name": "Passo Lusia",
+  "type": "comune",
+  "lat": 46.343632,
+  "lon": 11.700504,
+  "elevation": 2051
+ },
+ {
+  "id": "cfd9689c-f280-4175-8a5b-10a3d5122b4b",
+  "name": "Passo Manghen",
+  "type": "comune",
+  "lat": 46.17329,
+  "lon": 11.441435,
+  "elevation": 2042
+ },
+ {
+  "id": "4c17a2c4-f05d-4927-9a4f-daec87823174",
+  "name": "Passo Pian delle Fugazze",
+  "type": "comune",
+  "lat": 45.760302,
+  "lon": 11.172767,
+  "elevation": 1164
+ },
+ {
+  "id": "1f9da140-ca05-4cd6-adbb-1dda1f24d872",
+  "name": "Passo Pordoi",
+  "type": "comune",
+  "lat": 46.487618,
+  "lon": 11.81125,
+  "elevation": 2237
+ },
+ {
+  "id": "17721771-61d5-417f-9702-4a759a33e4e3",
+  "name": "Passo Redebus",
+  "type": "comune",
+  "lat": 46.135729,
+  "lon": 11.323403,
+  "elevation": 1455
+ },
+ {
+  "id": "3a541c02-d2f4-4eb6-b300-88ae21a009be",
+  "name": "Passo Rolle",
+  "type": "comune",
+  "lat": 46.296856,
+  "lon": 11.788176,
+  "elevation": 1985
+ },
+ {
+  "id": "5d71d863-9b91-49db-a24a-84430b367c30",
+  "name": "Passo San Pellegrino",
+  "type": "comune",
+  "lat": 46.380176,
+  "lon": 11.789949,
+  "elevation": 1940
+ },
+ {
+  "id": "3080a9af-d7bb-49cc-8747-d6bb51408267",
+  "name": "Passo Sella",
+  "type": "comune",
+  "lat": 46.506628,
+  "lon": 11.75713,
+  "elevation": 2218
+ },
+ {
+  "id": "27b0481d-1e45-4fb8-8fe8-72c26e339e8a",
+  "name": "Peio",
+  "type": "comune",
+  "lat": 46.364449,
+  "lon": 10.67821,
+  "elevation": 1173
+ },
+ {
+  "id": "78910558-3ef0-451a-a046-a0a76a419452",
+  "name": "Pellizzano",
+  "type": "comune",
+  "lat": 46.309707,
+  "lon": 10.760506,
+  "elevation": 925
+ },
+ {
+  "id": "4526a780-d3a8-4866-b6c1-23f260c1356a",
+  "name": "Pelugo",
+  "type": "comune",
+  "lat": 46.088486,
+  "lon": 10.723107,
+  "elevation": 652
+ },
+ {
+  "id": "106202e5-b797-47bf-8434-eb3f88a80791",
+  "name": "Pergine Valsugana",
+  "type": "comune",
+  "lat": 46.063174,
+  "lon": 11.242151,
+  "elevation": 482
+ },
+ {
+  "id": "6851b216-83f7-4228-b913-6bb2e56d37a7",
+  "name": "Pieve Di Bono-Prezzo",
+  "type": "comune",
+  "lat": 45.93864,
+  "lon": 10.6383,
+  "elevation": 514
+ },
+ {
+  "id": "76142ee2-ff91-4a69-b2a7-5a66a73c4bbc",
+  "name": "Pieve Tesino",
+  "type": "comune",
+  "lat": 46.068808,
+  "lon": 11.606925,
+  "elevation": 843
+ },
+ {
+  "id": "1e083c5e-19b2-477e-84a1-d71f2356f1ec",
+  "name": "Pinzolo",
+  "type": "comune",
+  "lat": 46.159162,
+  "lon": 10.765126,
+  "elevation": 770
+ },
+ {
+  "id": "6b0810db-3cd3-41b7-9bb7-2be3e8cc9765",
+  "name": "Pomarolo",
+  "type": "comune",
+  "lat": 45.926386,
+  "lon": 11.043371,
+  "elevation": 206
+ },
+ {
+  "id": "22a90429-6482-47a7-a1b2-2ed6582bd0f5",
+  "name": "Porte di Rendena",
+  "type": "comune",
+  "lat": 46.074532,
+  "lon": 10.660792,
+  "elevation": 608
+ },
+ {
+  "id": "48bb1e05-f5c8-4e49-9cb5-72dfb4933499",
+  "name": "Predaia",
+  "type": "comune",
+  "lat": 46.32839,
+  "lon": 11.09107,
+  "elevation": 515
+ },
+ {
+  "id": "64744061-31fc-4621-beed-1d6bf7ee63f5",
+  "name": "Predazzo",
+  "type": "comune",
+  "lat": 46.312235,
+  "lon": 11.602902,
+  "elevation": 1018
+ },
+ {
+  "id": "77604dfd-9750-4334-8046-74f59c984a3f",
+  "name": "Primiero San Martino di Castrozza",
+  "type": "comune",
+  "lat": 46.17695,
+  "lon": 11.82961,
+  "elevation": 710
+ },
+ {
+  "id": "559189d7-8b31-4cae-93f8-fd50c16a08ad",
+  "name": "Rabbi",
+  "type": "comune",
+  "lat": 46.411594,
+  "lon": 10.806174,
+  "elevation": 1095
+ },
+ {
+  "id": "5acc95bb-cfb3-4d53-8547-f1d9a3418d11",
+  "name": "Riva del Garda",
+  "type": "comune",
+  "lat": 45.888901,
+  "lon": 10.842831,
+  "elevation": 73
+ },
+ {
+  "id": "02670c4a-febf-4001-9b77-6d45619f27b1",
+  "name": "Romeno",
+  "type": "comune",
+  "lat": 46.394368,
+  "lon": 11.117277,
+  "elevation": 961
+ },
+ {
+  "id": "cb45cce0-36f6-4693-be02-718fe43aef6f",
+  "name": "Roncegno Terme",
+  "type": "comune",
+  "lat": 46.051599,
+  "lon": 11.4099,
+  "elevation": 535
+ },
+ {
+  "id": "b7f387d0-a2bf-4d68-96f3-041c4a936f8f",
+  "name": "Ronchi Valsugana",
+  "type": "comune",
+  "lat": 46.068147,
+  "lon": 11.435215,
+  "elevation": 776
+ },
+ {
+  "id": "4c41f402-85f0-4807-a904-03c31315bd1e",
+  "name": "Ronzo-Chienis",
+  "type": "comune",
+  "lat": 45.891446,
+  "lon": 10.951298,
+  "elevation": 974
+ },
+ {
+  "id": "1f656b25-a7d3-40e1-bbd8-bfbb23e3abc0",
+  "name": "Ronzone",
+  "type": "comune",
+  "lat": 46.424987,
+  "lon": 11.153057,
+  "elevation": 1084
+ },
+ {
+  "id": "c08678b8-99d9-4015-aa50-debe19d971b7",
+  "name": "Roveré della Luna",
+  "type": "comune",
+  "lat": 46.249819,
+  "lon": 11.170204,
+  "elevation": 251
+ },
+ {
+  "id": "6064a14c-3483-44c4-a64c-45b471b4783c",
+  "name": "Rovereto",
+  "type": "comune",
+  "lat": 45.887303,
+  "lon": 11.040389,
+  "elevation": 204
+ },
+ {
+  "id": "a90f3571-dd95-48c3-962d-d59fa9dae704",
+  "name": "Ruffré-Mendola",
+  "type": "comune",
+  "lat": 46.414942,
+  "lon": 11.176362,
+  "elevation": 1200
+ },
+ {
+  "id": "74014907-3b82-42ee-8de9-307a9a962213",
+  "name": "Rumo",
+  "type": "comune",
+  "lat": 46.452093,
+  "lon": 11.010894,
+  "elevation": 944
+ },
+ {
+  "id": "e15540a9-eb29-446c-a76e-bf36af41e2ac",
+  "name": "Sagron Mis",
+  "type": "comune",
+  "lat": 46.194841,
+  "lon": 11.943316,
+  "elevation": 1062
+ },
+ {
+  "id": "52f0a2bc-6c24-4eb6-b977-18f8f8c5a954",
+  "name": "Samone",
+  "type": "comune",
+  "lat": 46.081558,
+  "lon": 11.522431,
+  "elevation": 673
+ },
+ {
+  "id": "51727344-6fbe-4fb5-b9a4-b8cfce13017b",
+  "name": "San Giovanni di Fassa",
+  "type": "comune",
+  "lat": 46.43035,
+  "lon": 11.68672,
+  "elevation": 1325
+ },
+ {
+  "id": "adf571fb-dbad-4185-8f4b-456612bb3bb0",
+  "name": "San Lorenzo Dorsino",
+  "type": "comune",
+  "lat": 46.07719,
+  "lon": 10.9087,
+  "elevation": 758
+ },
+ {
+  "id": "4c6eaca3-6537-4f5b-80bf-ff5f792b84c7",
+  "name": "San Martino di Castrozza",
+  "type": "comune",
+  "lat": 46.2624735,
+  "lon": 11.7980155,
+  "elevation": 1487
+ },
+ {
+  "id": "150b31ac-970a-460a-91f5-603f8222cfde",
+  "name": "San Michele all'Adige",
+  "type": "comune",
+  "lat": 46.194308,
+  "lon": 11.133829,
+  "elevation": 228
+ },
+ {
+  "id": "d60b9984-0f56-4456-97ce-f6a15c4f2cc7",
+  "name": "Sant'Orsola Terme",
+  "type": "comune",
+  "lat": 46.108133,
+  "lon": 11.302522,
+  "elevation": 925
+ },
+ {
+  "id": "8b371ebb-2422-42b6-a2ae-abd3f5dd4256",
+  "name": "Sanzeno",
+  "type": "comune",
+  "lat": 46.366139,
+  "lon": 11.074664,
+  "elevation": 640
+ },
+ {
+  "id": "1adf3aad-7f17-4cda-9c04-1b3988632799",
+  "name": "Sarnonico",
+  "type": "comune",
+  "lat": 46.418759,
+  "lon": 11.141023,
+  "elevation": 963
+ },
+ {
+  "id": "87d9a0fb-b804-410b-81e6-c8bae1978abe",
+  "name": "Scurelle",
+  "type": "comune",
+  "lat": 46.065088,
+  "lon": 11.506524,
+  "elevation": 375
+ },
+ {
+  "id": "5dd99448-23a8-4857-9238-1f59fa6caeb6",
+  "name": "Segonzano",
+  "type": "comune",
+  "lat": 46.19064,
+  "lon": 11.25644,
+  "elevation": 660
+ },
+ {
+  "id": "c4a33987-f71e-4497-bb5b-c985e148cafa",
+  "name": "Sella Giudicarie",
+  "type": "comune",
+  "lat": 46.004787,
+  "lon": 10.692005,
+  "elevation": 842
+ },
+ {
+  "id": "23dc4f14-76a6-4753-abfd-2daba5ac482d",
+  "name": "Sfruz",
+  "type": "comune",
+  "lat": 46.337259,
+  "lon": 11.115364,
+  "elevation": 1015
+ },
+ {
+  "id": "4b64ef5b-b493-4304-b83a-0cddf984da48",
+  "name": "Soraga di Fassa",
+  "type": "comune",
+  "lat": 46.39665,
+  "lon": 11.66788,
+  "elevation": 1220
+ },
+ {
+  "id": "8e1fdddf-42ad-4c5b-ba85-01d6d082a84a",
+  "name": "Sover",
+  "type": "comune",
+  "lat": 46.221903,
+  "lon": 11.31517,
+  "elevation": 831
+ },
+ {
+  "id": "6e5183cd-f272-4cfc-b953-c4d977b5a610",
+  "name": "Spiazzo",
+  "type": "comune",
+  "lat": 46.102334,
+  "lon": 10.73829,
+  "elevation": 650
+ },
+ {
+  "id": "56494f31-d210-452e-8c6d-e665b0f69c93",
+  "name": "Spormaggiore",
+  "type": "comune",
+  "lat": 46.218112,
+  "lon": 11.048393,
+  "elevation": 565
+ },
+ {
+  "id": "3399bfc3-c9b6-41b3-a5db-de75c590a9a1",
+  "name": "Sporminore",
+  "type": "comune",
+  "lat": 46.237191,
+  "lon": 11.03124,
+  "elevation": 515
+ },
+ {
+  "id": "5f900be9-dbbe-4068-9397-13073dde2cf4",
+  "name": "Stenico",
+  "type": "comune",
+  "lat": 46.052022,
+  "lon": 10.853941,
+  "elevation": 666
+ },
+ {
+  "id": "b3d3402d-30f3-4ca8-b1ef-166b5999e2a3",
+  "name": "Storo",
+  "type": "comune",
+  "lat": 45.848216,
+  "lon": 10.580019,
+  "elevation": 409
+ },
+ {
+  "id": "714644d6-3fd0-4da3-b80f-860b29689770",
+  "name": "Strembo",
+  "type": "comune",
+  "lat": 46.12012,
+  "lon": 10.751294,
+  "elevation": 714
+ },
+ {
+  "id": "d2aa48d3-72db-4b1f-a694-6457b8d350e2",
+  "name": "Telve",
+  "type": "comune",
+  "lat": 46.070527,
+  "lon": 11.477991,
+  "elevation": 550
+ },
+ {
+  "id": "a7121494-e364-4cbb-bf46-6f49a465891f",
+  "name": "Telve di Sopra",
+  "type": "comune",
+  "lat": 46.072282,
+  "lon": 11.471617,
+  "elevation": 650
+ },
+ {
+  "id": "658669ac-8ab9-4615-9ff4-8388d7deaf7b",
+  "name": "Tenna",
+  "type": "comune",
+  "lat": 46.014275,
+  "lon": 11.266347,
+  "elevation": 569
+ },
+ {
+  "id": "dbbf9c7a-3453-4027-8f73-ae15d18b8e18",
+  "name": "Tenno",
+  "type": "comune",
+  "lat": 45.919861,
+  "lon": 10.832587,
+  "elevation": 428
+ },
+ {
+  "id": "b4fd9e10-8888-4832-816c-4b672d98a5fc",
+  "name": "Terragnolo",
+  "type": "comune",
+  "lat": 45.874999,
+  "lon": 11.145663,
+  "elevation": 785
+ },
+ {
+  "id": "e3927cc1-1e18-48bf-bf7e-c8eeedb32348",
+  "name": "Terre d'Adige",
+  "type": "comune",
+  "lat": 46.15179,
+  "lon": 11.09736,
+  "elevation": 206
+ },
+ {
+  "id": "e55526a6-bd80-478e-b484-387808f5746e",
+  "name": "Terzolas",
+  "type": "comune",
+  "lat": 46.361498,
+  "lon": 10.926614,
+  "elevation": 755
+ },
+ {
+  "id": "d2213d5a-b202-4f8c-b6a9-6a8877812e59",
+  "name": "Tesero",
+  "type": "comune",
+  "lat": 46.289592,
+  "lon": 11.511772,
+  "elevation": 1000
+ },
+ {
+  "id": "02cd7dd1-aa55-40f6-a000-b9050e4695af",
+  "name": "Tione di Trento",
+  "type": "comune",
+  "lat": 46.035222,
+  "lon": 10.72866,
+  "elevation": 565
+ },
+ {
+  "id": "cd5e82ae-ccd6-4ed2-a624-bdb2e2c00893",
+  "name": "Ton",
+  "type": "comune",
+  "lat": 46.270306,
+  "lon": 11.084512,
+  "elevation": 482
+ },
+ {
+  "id": "2f7120c7-26a5-4585-bbef-bc05633636a8",
+  "name": "Torcegno",
+  "type": "comune",
+  "lat": 46.072907,
+  "lon": 11.449819,
+  "elevation": 769
+ },
+ {
+  "id": "92fcc5d8-0709-4134-8402-e357dd464141",
+  "name": "Trambileno",
+  "type": "comune",
+  "lat": 45.867257,
+  "lon": 11.076661,
+  "elevation": 525
+ },
+ {
+  "id": "f448d23e-660e-4556-af4a-b78b5bd3ab24",
+  "name": "Tre Ville",
+  "type": "comune",
+  "lat": 46.062702,
+  "lon": 10.783208,
+  "elevation": 556
+ },
+ {
+  "id": "e0c04e2d-8221-48d3-92b9-56e26e743213",
+  "name": "Trento",
+  "type": "comune",
+  "lat": 46.071322,
+  "lon": 11.120295,
+  "elevation": 194
+ },
+ {
+  "id": "b0d0e3fc-01fe-4004-adf0-d560669bc7f4",
+  "name": "Trento - collina",
+  "type": "comune",
+  "lat": 46.0661393,
+  "lon": 11.1484313,
+  "elevation": 398
+ },
+ {
+  "id": "fbb753cb-9afb-4090-a1f0-2e9531c0b60c",
+  "name": "Trento - Monte Bondone",
+  "type": "comune",
+  "lat": 46.040625,
+  "lon": 11.05849,
+  "elevation": 1652
+ },
+ {
+  "id": "4eb7b383-f759-40bf-8cb2-5276dd769677",
+  "name": "Valdaone",
+  "type": "comune",
+  "lat": 45.950078,
+  "lon": 10.601078,
+  "elevation": 767
+ },
+ {
+  "id": "88c72523-d928-49c9-a188-dc9ca57e50d9",
+  "name": "Valfloriana",
+  "type": "comune",
+  "lat": 46.23576,
+  "lon": 11.346084,
+  "elevation": 853
+ },
+ {
+  "id": "523f9dd3-363f-4a3f-a720-5e833a391975",
+  "name": "Vallarsa",
+  "type": "comune",
+  "lat": 45.787582,
+  "lon": 11.099608,
+  "elevation": 724
+ },
+ {
+  "id": "e37d02f6-081c-40a6-a68a-ae3294c6c04a",
+  "name": "Vallelaghi",
+  "type": "comune",
+  "lat": 46.100676,
+  "lon": 11.009286,
+  "elevation": 385
+ },
+ {
+  "id": "30f0ca2a-a8d2-4d39-bb1d-514f35f44142",
+  "name": "Vermiglio",
+  "type": "comune",
+  "lat": 46.296399,
+  "lon": 10.688507,
+  "elevation": 1261
+ },
+ {
+  "id": "1aa05d9a-9f2b-4c6a-8c2d-52da0ae60b88",
+  "name": "Vignola-Falesina",
+  "type": "comune",
+  "lat": 46.060959,
+  "lon": 11.282579,
+  "elevation": 984
+ },
+ {
+  "id": "3a623b82-1fd5-40a3-99db-bf125446e3d8",
+  "name": "Villa Lagarina",
+  "type": "comune",
+  "lat": 45.914431,
+  "lon": 11.031945,
+  "elevation": 180
+ },
+ {
+  "id": "c0356f56-c39a-4425-a640-41fe6ff9aa5b",
+  "name": "Ville d'Anaunia",
+  "type": "comune",
+  "lat": 46.326728,
+  "lon": 11.046709,
+  "elevation": 629
+ },
+ {
+  "id": "493f942b-0f26-4266-888d-77382b00569e",
+  "name": "Ville di Fiemme",
+  "type": "comune",
+  "lat": 46.30075,
+  "lon": 11.44797,
+  "elevation": 1180
+ },
+ {
+  "id": "9796fa3e-acff-4f12-8387-73a29173dc91",
+  "name": "Volano",
+  "type": "comune",
+  "lat": 45.916572,
+  "lon": 11.064857,
+  "elevation": 189
+ },
+ {
+  "id": "57ec3caf-99b2-46e2-831f-15392dcf7934",
+  "name": "Ziano di Fiemme",
+  "type": "comune",
+  "lat": 46.287384,
+  "lon": 11.565329,
+  "elevation": 953
+ }
+]

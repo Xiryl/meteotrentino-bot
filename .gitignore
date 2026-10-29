@@ -357,3 +357,7 @@ bld/
 lib/config/config\.json
 
 session_db\.json
+
+# runtime data
+db/
+log/

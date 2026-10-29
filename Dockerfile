@@ -1,9 +1,9 @@
-FROM node:12.13.0-alpine
+FROM node:20-alpine
 
 # install dependencies
 WORKDIR /opt/app
 COPY package.json package-lock.json* ./
-RUN rm -rf node_modules && npm cache clean --force && npm install --production
+RUN npm ci --omit=dev && npm cache clean --force
 
 # copy app source to image _after_ npm install so that
 # application code changes don't bust the docker cache of npm install step
